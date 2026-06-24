@@ -10,6 +10,8 @@ export interface Section {
   color: string;
 }
 
+export type StatusSource = 'initial' | 'manual' | 'auto';
+
 export interface Milestone {
   id: string;
   sectionId: SectionId;
@@ -21,6 +23,34 @@ export interface Milestone {
   source: string;
   personalNotes: string;
   details: string;
+  statusSource?: StatusSource;
+  autoEvidence?: string;
+  autoEvidenceUrl?: string;
+}
+
+export interface AutoStatusEntry {
+  status: MilestoneStatus;
+  confidence: 'high' | 'medium' | 'low';
+  evidence: string | null;
+  evidenceUrl: string | null;
+  detectedAt: string;
+  matchedKeyword: string | null;
+  pubDate?: string;
+}
+
+export interface MilestonesStatusFile {
+  version: number;
+  lastChecked: string;
+  feedCount: number;
+  feedErrors: { feed: string; error: string }[];
+  updates: Record<string, AutoStatusEntry>;
+  recentNews: {
+    title: string;
+    url: string;
+    milestoneId: string;
+    date: string;
+    source: string;
+  }[];
 }
 
 export interface NewsItem {

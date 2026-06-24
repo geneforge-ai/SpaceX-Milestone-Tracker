@@ -1,0 +1,105 @@
+{
+  "feeds": [
+    "https://news.google.com/rss/search?q=SpaceX+Starship+booster+catch&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=SpaceX+Starship+orbital+refueling&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Starlink+subscribers+million&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Starlink+direct+to+cell&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=SpaceX+xAI+integration&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=SpaceX+IPO+earnings+report&hl=en-US&gl=US&ceid=US:en"
+  ],
+  "milestones": [
+    {
+      "id": "starship-orbital-catch",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["booster caught", "caught the booster", "successful booster catch", "super heavy caught", "chopsticks catch"] },
+        { "status": "ritardato", "keywords": ["starship delay", "launch delayed", "faa delay", "postponed starship"] },
+        { "status": "in-corso", "keywords": ["booster catch attempt", "return to launch site", "mechazilla", "starship flight", "super heavy landing"] }
+      ]
+    },
+    {
+      "id": "starship-refueling",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["successful orbital refueling", "completed propellant transfer", "demonstrated orbital refueling", "starship tanker demo success"] },
+        { "status": "in-corso", "keywords": ["orbital refueling test", "propellant transfer test", "starship tanker", "orbital depot"] }
+      ]
+    },
+    {
+      "id": "starship-crew",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["starship crew", "astronauts aboard starship", "crewed starship", "artemis starship crew"] },
+        { "status": "ritardato", "keywords": ["artemis delay", "crewed mission delayed", "artemis iii delay"] },
+        { "status": "in-corso", "keywords": ["human rating", "life support starship", "artemis iii"] }
+      ]
+    },
+    {
+      "id": "starship-cadence",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["monthly starship", "starship per month", "launch cadence", "weekly starship"] },
+        { "status": "in-corso", "keywords": ["increasing launch rate", "starship production rate", "launch frequency"] }
+      ]
+    },
+    {
+      "id": "starlink-subscribers",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["12 million subscribers", "11 million subscribers", "10 million subscribers", "12m subscribers", "10m subscribers"] },
+        { "status": "in-corso", "keywords": ["8 million subscribers", "9 million subscribers", "starlink subscribers", "starlink users", "million subscribers"] }
+      ]
+    },
+    {
+      "id": "starlink-d2c",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["direct-to-cell launched", "direct to cell operational", "d2c service live", "starlink texting"] },
+        { "status": "in-corso", "keywords": ["direct-to-cell", "direct to cell", "t-mobile starlink", "starlink mobile"] }
+      ]
+    },
+    {
+      "id": "starlink-profitable",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["starlink profitable", "starlink profitability", "starlink ebitda positive", "starlink cash flow positive"] },
+        { "status": "in-corso", "keywords": ["starlink revenue", "starlink margins", "starlink financial"] }
+      ]
+    },
+    {
+      "id": "xai-official",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["spacex xai partnership", "xai spacex deal", "xai spacex integration announced"] },
+        { "status": "in-corso", "keywords": ["spacex xai", "xai spacex", "grok spacex", "musk xai spacex"] }
+      ]
+    },
+    {
+      "id": "xai-orbital-compute",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["orbital data center launched", "compute satellite deployed", "ai satellite launched"] },
+        { "status": "in-corso", "keywords": ["orbital data center", "compute in orbit", "ai satellites", "orbital ai", "space data center"] }
+      ]
+    },
+    {
+      "id": "xai-starship-launch",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["xai satellite launch", "xai payload starship", "xai hardware orbit"] },
+        { "status": "in-corso", "keywords": ["xai launch", "xai satellite", "starship xai payload"] }
+      ]
+    },
+    {
+      "id": "fin-earnings",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["first earnings report", "quarterly earnings spacex", "spacex ipo earnings", "10-q spacex"] },
+        { "status": "in-corso", "keywords": ["spacex ipo", "spacex public offering", "spacex listing", "spacex s-1"] }
+      ]
+    },
+    {
+      "id": "fin-margins",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["spacex margins improve", "operating margin positive", "path to profitability"] },
+        { "status": "in-corso", "keywords": ["spacex revenue growth", "spacex margins", "spacex profitability"] }
+      ]
+    },
+    {
+      "id": "fin-cashflow",
+      "rules": [
+        { "status": "raggiunto", "keywords": ["positive free cash flow", "cash flow positive", "fcf positive spacex"] },
+        { "status": "in-corso", "keywords": ["spacex cash flow", "free cash flow spacex", "spacex financial results"] }
+      ]
+    }
+  ]
+}

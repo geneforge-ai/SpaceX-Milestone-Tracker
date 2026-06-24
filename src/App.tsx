@@ -5,8 +5,11 @@ import { Dashboard } from './pages/Dashboard';
 import { MilestoneDetail } from './pages/MilestoneDetail';
 import { NewsPage } from './pages/NewsPage';
 import { SettingsPage } from './pages/SettingsPage';
+import { useAutoSync } from './hooks/useAutoSync';
 
-export default function App() {
+function AppRoutes() {
+  useAutoSync();
+
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Layout>
@@ -20,4 +23,8 @@ export default function App() {
       <NotificationToast />
     </BrowserRouter>
   );
+}
+
+export default function App() {
+  return <AppRoutes />;
 }

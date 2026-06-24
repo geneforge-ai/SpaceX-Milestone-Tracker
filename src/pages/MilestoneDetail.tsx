@@ -5,6 +5,7 @@ import { useStore } from '../store/useStore';
 import { SECTIONS, STATUS_LABELS } from '../types';
 import type { MilestoneStatus } from '../types';
 import { StatusBadge } from '../components/StatusBadge';
+import { AutoBadge } from '../components/AutoBadge';
 
 export function MilestoneDetail() {
   const { id } = useParams<{ id: string }>();
@@ -53,6 +54,7 @@ export function MilestoneDetail() {
             </span>
           )}
           <StatusBadge status={milestone.status} size="md" />
+          {milestone.statusSource === 'auto' && <AutoBadge />}
         </div>
 
         <h1 className="text-2xl font-bold text-slate-100">{milestone.name}</h1>
@@ -78,6 +80,27 @@ export function MilestoneDetail() {
             </p>
           </div>
         </div>
+
+        {milestone.autoEvidence && (
+          <div className="mt-6 p-4 rounded-lg bg-cyan-500/5 border border-cyan-500/20">
+            <h3 className="text-sm font-semibold text-cyan-400 mb-2">Rilevamento automatico</h3>
+            <p className="text-sm text-slate-300">{milestone.autoEvidence}</p>
+            {milestone.autoEvidenceUrl && (
+              <a
+                href={milestone.autoEvidenceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-2 inline-flex items-center gap-1 text-xs text-cyan-400 hover:underline"
+              >
+                <ExternalLink className="h-3 w-3" />
+                Vedi fonte
+              </a>
+            )}
+            <p className="mt-2 text-xs text-slate-500">
+              Modificando lo stato manualmente, il monitoraggio automatico non sovrascriverà più questo milestone.
+            </p>
+          </div>
+        )}
 
         <div className="mt-6">
           <h3 className="text-sm font-semibold text-slate-300 mb-2">Dettagli</h3>

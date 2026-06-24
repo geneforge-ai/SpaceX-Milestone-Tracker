@@ -3,6 +3,7 @@ import { ChevronRight, Calendar, ExternalLink } from 'lucide-react';
 import type { Milestone, MilestoneStatus } from '../types';
 import { STATUS_LABELS } from '../types';
 import { StatusBadge } from './StatusBadge';
+import { AutoBadge } from './AutoBadge';
 import { useStore } from '../store/useStore';
 
 interface MilestoneCardProps {
@@ -39,6 +40,11 @@ export function MilestoneCard({ milestone }: MilestoneCardProps) {
               {milestone.source}
             </span>
           </div>
+          {milestone.autoEvidence && milestone.statusSource === 'auto' && (
+            <p className="mt-2 text-xs text-cyan-400/80 border-l-2 border-cyan-500/30 pl-2 line-clamp-2">
+              🤖 {milestone.autoEvidence}
+            </p>
+          )}
           {milestone.personalNotes && (
             <p className="mt-2 text-xs text-slate-500 italic border-l-2 border-blue-500/30 pl-2">
               {milestone.personalNotes}
@@ -47,7 +53,10 @@ export function MilestoneCard({ milestone }: MilestoneCardProps) {
         </div>
 
         <div className="flex flex-col gap-2 sm:items-end shrink-0">
-          <StatusBadge status={milestone.status} />
+          <div className="flex items-center gap-2">
+            <StatusBadge status={milestone.status} />
+            {milestone.statusSource === 'auto' && <AutoBadge />}
+          </div>
           <select
             value={milestone.status}
             onChange={(e) =>

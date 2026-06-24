@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "build:pages": "tsc -b && GITHUB_PAGES=true vite build && cp dist/index.html dist/404.html",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "monitor": "node scripts/milestone-monitor.mjs"
   },
   "dependencies": {
     "date-fns": "^4.4.0",

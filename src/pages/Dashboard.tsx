@@ -7,6 +7,7 @@ import { MilestoneFilters } from '../components/MilestoneFilters';
 import { MilestoneCard } from '../components/MilestoneCard';
 import { SectionHeader } from '../components/SectionHeader';
 import { exportToCSV, exportToPDF } from '../utils/export';
+import { AutoSyncStatus } from '../components/AutoSyncStatus';
 
 export function Dashboard() {
   const milestones = useStore((s) => s.milestones);
@@ -60,6 +61,7 @@ export function Dashboard() {
         </div>
       </div>
 
+      <AutoSyncStatus />
       <Overview milestones={milestones} />
       <MilestoneFilters />
 

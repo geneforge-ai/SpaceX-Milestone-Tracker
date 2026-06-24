@@ -1,4 +1,6 @@
-import { Bell, BellOff, Shield } from 'lucide-react';
+import { Bell, BellOff, Shield, Bot } from 'lucide-react';
+import { formatDistanceToNow } from 'date-fns';
+import { it } from 'date-fns/locale';
 import { useStore } from '../store/useStore';
 import { SECTIONS } from '../types';
 import { requestNotificationPermission } from '../utils/notifications';
@@ -7,6 +9,10 @@ export function SettingsPage() {
   const settings = useStore((s) => s.notificationSettings);
   const updateSettings = useStore((s) => s.updateNotificationSettings);
   const toggleSection = useStore((s) => s.toggleSectionNotification);
+  const autoSyncEnabled = useStore((s) => s.autoSyncEnabled);
+  const setAutoSyncEnabled = useStore((s) => s.setAutoSyncEnabled);
+  const lastAutoSyncAt = useStore((s) => s.lastAutoSyncAt);
+  const lastAutoSyncFeedCount = useStore((s) => s.lastAutoSyncFeedCount);
 
   const handleEnablePush = async () => {
     const permission = await requestNotificationPermission();
@@ -100,6 +106,43 @@ export function SettingsPage() {
             ))}
           </div>
         </div>
+      </div>
+
+      <div className="glass rounded-xl p-6 space-y-4">
+        <div className="flex items-center gap-3">
+          <div className="p-2 rounded-lg bg-cyan-500/10">
+            <Bot className="h-5 w-5 text-cyan-400" />
+          </div>
+          <div>
+            <h3 className="text-sm font-semibold text-slate-200">Monitoraggio automatico</h3>
+            <p className="text-xs text-slate-500">
+              GitHub Actions analizza RSS ogni 6 ore e aggiorna gli stati
+            </p>
+          </div>
+        </div>
+
+        <label className="flex items-center justify-between p-4 bg-space-800/50 rounded-lg cursor-pointer">
+          <div>
+            <p className="text-sm font-medium text-slate-300">Sync automatico nell'app</p>
+            <p className="text-xs text-slate-500">
+              {lastAutoSyncAt
+                ? `Ultimo sync ${formatDistanceToNow(new Date(lastAutoSyncAt), { addSuffix: true, locale: it })}`
+                : 'Nessun sync ancora'}
+              {lastAutoSyncFeedCount > 0 && ` · ${lastAutoSyncFeedCount} articoli`}
+            </p>
+          </div>
+          <input
+            type="checkbox"
+            checked={autoSyncEnabled}
+            onChange={(e) => setAutoSyncEnabled(e.target.checked)}
+            className="h-4 w-4 rounded border-space-600 bg-space-800 text-cyan-500 focus:ring-cyan-500/50"
+          />
+        </label>
+
+        <p className="text-xs text-slate-500 leading-relaxed">
+          Gli aggiornamenti automatici non sovrascrivono milestone che hai modificato manualmente.
+          Le notifiche si attivano su transizioni a Raggiunto o Ritardato.
+        </p>
       </div>
 
       <div className="glass rounded-xl p-6">

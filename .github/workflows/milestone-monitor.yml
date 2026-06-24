@@ -1,0 +1,35 @@
+name: Milestone Auto-Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Scan RSS feeds
+        id: scan
+        run: node scripts/milestone-monitor.mjs
+
+      - name: Commit status updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet public/milestones-status.json; then
+            echo "No changes to commit"
+          else
+            git add public/milestones-status.json
+            git commit -m "Auto-update milestone status from RSS monitor"
+            git push
+          fi

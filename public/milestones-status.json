@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "lastChecked": "2026-06-24T11:04:34.788Z",
+  "feedCount": 566,
+  "feedErrors": [],
+  "updates": {
+    "starship-orbital-catch": {
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.774Z",
+      "matchedKeyword": "mechazilla",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
+    },
+    "starship-refueling": {
+      "status": "raggiunto",
+      "confidence": "high",
+      "evidence": "As Starship prepares to fly, orbital refueling may be its biggest threat - Interesting Engineering",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEJKakJENUJRN3ZtVE8zMjA3Sk90R2dJb3RSOFMxcXRaeU15YVNSNVFKWENFdFprQkJaWUdObW10SEtpRVFSVTJYVHVyNHFiM002R1NDWVRCYUIwXzl0ZWsweWNsemZaanlwOXlzZmx4ODE3Zktmd2k4QVl0Z2NKNA?oc=5",
+      "detectedAt": "2026-06-24T11:03:34.393Z",
+      "matchedKeyword": "orbital refueling",
+      "pubDate": "Tue, 27 May 2025 07:00:00 GMT"
+    },
+    "starship-crew": {
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "At Least 15 Starship Launches Needed to Execute Artemis III Lunar Landing - SpacePolicyOnline.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmpvQmFNV2E2NXM1a3p1WlcyNmM5YWN3R2dZTmZjeDk2YUdNMzJUQ0RSQ21kaDA3QjZuVjk2MmpJR0s2LWhBX3NTbU5hS214YU1RWkFHLXl5aTRmZExkbVdDT1VMLTZESm40b29HUWRNUGJ2eTV4Qm45dERpS0gzSkdQQ3dlcTkwVXRqVzZCNVlaYjNBMzVGWm8yMW90SmdPTDBuOQ?oc=5",
+      "detectedAt": "2026-06-24T11:03:34.395Z",
+      "matchedKeyword": "artemis iii",
+      "pubDate": "Fri, 17 Nov 2023 08:00:00 GMT"
+    },
+    "starship-cadence": {
+      "status": "non-iniziato",
+      "confidence": "low",
+      "evidence": null,
+      "evidenceUrl": null,
+      "detectedAt": "2026-06-24T11:03:34.397Z",
+      "matchedKeyword": null
+    },
+    "starlink-subscribers": {
+      "status": "raggiunto",
+      "confidence": "high",
+      "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.779Z",
+      "matchedKeyword": "12 million subscribers",
+      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
+    },
+    "starlink-d2c": {
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "Madagascar prepares to launch Starlink direct-to-cell mobile services - SatellitePro ME",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU19US1pwUVdSWE1qWDlOZXVZSXhwMVlvdUlVWk02ZmdncXRibTJXR2dDRWlaWk5fT3ExLUNwY3NTTEVtRGhmOUs4ZkxySUF3Zkc3d0lZd3liNmYteHZnMWw1SVNYcVNERDN3RnM0OUhKa3hzTWZ3YlJzdFZjZVRNM1pLTHEtN1dYNzVFenlJU2xaOVBoQmN5UWZlR0lpZ3VRSDFseDVEWDc2WGFPSUdLZ0tNMUdUc3lES1JQQ2FOb3oybGo4aUw5UHJJSVQ?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.780Z",
+      "matchedKeyword": "direct-to-cell",
+      "pubDate": "Mon, 08 Jun 2026 14:20:39 GMT"
+    },
+    "starlink-profitable": {
+      "status": "non-iniziato",
+      "confidence": "low",
+      "evidence": null,
+      "evidenceUrl": null,
+      "detectedAt": "2026-06-24T11:03:34.399Z",
+      "matchedKeyword": null
+    },
+    "xai-official": {
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.782Z",
+      "matchedKeyword": "spacex xai",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    "xai-orbital-compute": {
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.783Z",
+      "matchedKeyword": "orbital data center",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    "xai-starship-launch": {
+      "status": "non-iniziato",
+      "confidence": "low",
+      "evidence": null,
+      "evidenceUrl": null,
+      "detectedAt": "2026-06-24T11:03:34.402Z",
+      "matchedKeyword": null
+    },
+    "fin-earnings": {
+      "status": "raggiunto",
+      "confidence": "high",
+      "evidence": "SpaceX's First Earnings Report Is Coming. Here Are the 4 Most Important Things to Watch - Yahoo Finance",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnNtQ09GWGNiY2phRFBGSnFhcnJPeFhFa002SWJhaXotUWdmS0taeE1lTkZYY0YwQnZhZVg4QjhTSEh6RWNOaWFhcjdzdHpULXZiR0JWUG9Icm43YTBMaDZYV1VQb2xRVGlnLTFmbk96bUE2YkdzWWJuSkk5UDNkMkRQaVByQmZucDRDSno2WnUyakJneVE4M2pyTVo1R0w5YlVj?oc=5",
+      "detectedAt": "2026-06-24T11:04:34.785Z",
+      "matchedKeyword": "first earnings report",
+      "pubDate": "Mon, 22 Jun 2026 19:58:00 GMT"
+    },
+    "fin-margins": {
+      "status": "non-iniziato",
+      "confidence": "low",
+      "evidence": null,
+      "evidenceUrl": null,
+      "detectedAt": "2026-06-24T11:03:34.405Z",
+      "matchedKeyword": null
+    },
+    "fin-cashflow": {
+      "status": "non-iniziato",
+      "confidence": "low",
+      "evidence": null,
+      "evidenceUrl": null,
+      "detectedAt": "2026-06-24T11:03:34.405Z",
+      "matchedKeyword": null
+    }
+  },
+  "recentNews": [
+    {
+      "title": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
+      "milestoneId": "starship-orbital-catch",
+      "date": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
+      "milestoneId": "starlink-subscribers",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "Madagascar prepares to launch Starlink direct-to-cell mobile services - SatellitePro ME",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU19US1pwUVdSWE1qWDlOZXVZSXhwMVlvdUlVWk02ZmdncXRibTJXR2dDRWlaWk5fT3ExLUNwY3NTTEVtRGhmOUs4ZkxySUF3Zkc3d0lZd3liNmYteHZnMWw1SVNYcVNERDN3RnM0OUhKa3hzTWZ3YlJzdFZjZVRNM1pLTHEtN1dYNzVFenlJU2xaOVBoQmN5UWZlR0lpZ3VRSDFseDVEWDc2WGFPSUdLZ0tNMUdUc3lES1JQQ2FOb3oybGo4aUw5UHJJSVQ?oc=5",
+      "milestoneId": "starlink-d2c",
+      "date": "Mon, 08 Jun 2026 14:20:39 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
+      "milestoneId": "xai-official",
+      "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
+      "milestoneId": "xai-orbital-compute",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "SpaceX's First Earnings Report Is Coming. Here Are the 4 Most Important Things to Watch - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnNtQ09GWGNiY2phRFBGSnFhcnJPeFhFa002SWJhaXotUWdmS0taeE1lTkZYY0YwQnZhZVg4QjhTSEh6RWNOaWFhcjdzdHpULXZiR0JWUG9Icm43YTBMaDZYV1VQb2xRVGlnLTFmbk96bUE2YkdzWWJuSkk5UDNkMkRQaVByQmZucDRDSno2WnUyakJneVE4M2pyTVo1R0w5YlVj?oc=5",
+      "milestoneId": "fin-earnings",
+      "date": "Mon, 22 Jun 2026 19:58:00 GMT",
+      "source": "Auto-monitor RSS"
+    }
+  ]
+}
