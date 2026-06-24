@@ -28,6 +28,10 @@ npm run dev
 
 Apri [http://localhost:5173](http://localhost:5173)
 
+## Demo live
+
+**https://geneforge-ai.github.io/SpaceX-Milestone-Tracker/**
+
 ## Build
 
 ```bash
