@@ -32,6 +32,8 @@ Apri [http://localhost:5173](http://localhost:5173)
 
 **https://geneforge-ai.github.io/SpaceX-Milestone-Tracker/**
 
+> **Setup una tantum:** vai su [Settings → Pages](https://github.com/geneforge-ai/SpaceX-Milestone-Tracker/settings/pages) e imposta **Source: GitHub Actions**. Il deploy parte automaticamente ad ogni push su `main`.
+
 ## Build
 
 ```bash
