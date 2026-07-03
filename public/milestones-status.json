@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-02T19:27:35.292Z",
-  "feedCount": 564,
+  "lastChecked": "2026-07-03T02:56:58.982Z",
+  "feedCount": 467,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.275Z",
+      "detectedAt": "2026-07-03T02:56:58.967Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.281Z",
+      "detectedAt": "2026-07-03T02:56:58.972Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.282Z",
+      "detectedAt": "2026-07-03T02:56:58.974Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 02 Jul 2026 08:02:40 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.285Z",
+      "detectedAt": "2026-07-03T02:56:58.976Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.287Z",
+      "detectedAt": "2026-07-03T02:56:58.977Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -92,13 +92,13 @@
       "matchedKeyword": null
     },
     "fin-earnings": {
-      "status": "raggiunto",
-      "confidence": "high",
-      "evidence": "SpaceX's First Earnings Report Is Coming. Here Are the 4 Most Important Things to Watch - The Motley Fool",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkd4NEVTbTdlazdTYy1XcnBQYkpRT0oyckhZTF94OHVJZTgyd2xEVkxTT1E3Wk5feDRoZFJld0MtNEVjOUd5dVFKNFZzSXFubDdTZGRYcFoxQ0dPWm1XVWlUODVrcGwtQ2U4d1RoRVB5aTB5NW9qMWR0Mm1mNVI4MFJPeFNGWlFFWWlSLWhJU1o1OXpnRE1vdA?oc=5",
-      "detectedAt": "2026-07-02T19:27:35.289Z",
-      "matchedKeyword": "first earnings report",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "Analyst Projects Massive Subscription Growth for Starlink Ahead of Imminent SpaceX IPO - satnews.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWi1kT1Ztc1pJakhtSUVVSVZxRlY5QjNTQlRxNzdDU1B3RHFaaUo5Q2pKUTVqdVc0RWtScmFrRlhIMW5OYTNLem9aYW1ia3pJcnpORE1Tcl9DRUVybGlBVXg5Y0pONU56aTcyUlY3d1hNQ3gyVjQ0bExRMzdqdGxvNnhPallfeDRIRFhVU3RmWFBvNkRqNTdsWGVoend3VXExUTlHWmxqN2VPYnNJUlhXVmNQaGRnT01zSXc?oc=5",
+      "detectedAt": "2026-07-03T02:56:58.979Z",
+      "matchedKeyword": "spacex ipo",
+      "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -154,10 +154,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX's First Earnings Report Is Coming. Here Are the 4 Most Important Things to Watch - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkd4NEVTbTdlazdTYy1XcnBQYkpRT0oyckhZTF94OHVJZTgyd2xEVkxTT1E3Wk5feDRoZFJld0MtNEVjOUd5dVFKNFZzSXFubDdTZGRYcFoxQ0dPWm1XVWlUODVrcGwtQ2U4d1RoRVB5aTB5NW9qMWR0Mm1mNVI4MFJPeFNGWlFFWWlSLWhJU1o1OXpnRE1vdA?oc=5",
+      "title": "Analyst Projects Massive Subscription Growth for Starlink Ahead of Imminent SpaceX IPO - satnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWi1kT1Ztc1pJakhtSUVVSVZxRlY5QjNTQlRxNzdDU1B3RHFaaUo5Q2pKUTVqdVc0RWtScmFrRlhIMW5OYTNLem9aYW1ia3pJcnpORE1Tcl9DRUVybGlBVXg5Y0pONU56aTcyUlY3d1hNQ3gyVjQ0bExRMzdqdGxvNnhPallfeDRIRFhVU3RmWFBvNkRqNTdsWGVoend3VXExUTlHWmxqN2VPYnNJUlhXVmNQaGRnT01zSXc?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "date": "Sun, 07 Jun 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
