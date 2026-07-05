@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-05T13:38:26.313Z",
-  "feedCount": 560,
+  "lastChecked": "2026-07-05T19:17:12.483Z",
+  "feedCount": 561,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.295Z",
+      "detectedAt": "2026-07-05T19:17:12.465Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.302Z",
+      "detectedAt": "2026-07-05T19:17:12.471Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.303Z",
+      "detectedAt": "2026-07-05T19:17:12.473Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 02 Jul 2026 08:02:40 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.306Z",
+      "detectedAt": "2026-07-05T19:17:12.476Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.307Z",
+      "detectedAt": "2026-07-05T19:17:12.477Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -94,11 +94,11 @@
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - The Motley Fool",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JhLUgxa0JZS3BNRk9KVGhXRkoyRHZIOTE3VVFvaUt5cFd3OGFVRDMwYWtOdnJlc3JGOVVkbWJVV1A2cUU5dVNQa2FFVnlPRkVsNFNBeG9CanRuYWNHVEJYOTdpYjFGX0NmZGZNNFdHUzkwWjNjUElCMXdkOG13eE05OWljTzlmRWFFUEJMOXlGVGpqakVCZQ?oc=5",
-      "detectedAt": "2026-07-05T13:38:26.309Z",
+      "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
+      "detectedAt": "2026-07-05T19:17:12.479Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Sat, 04 Jul 2026 21:05:00 GMT"
+      "pubDate": "Sat, 04 Jul 2026 20:25:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -154,10 +154,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JhLUgxa0JZS3BNRk9KVGhXRkoyRHZIOTE3VVFvaUt5cFd3OGFVRDMwYWtOdnJlc3JGOVVkbWJVV1A2cUU5dVNQa2FFVnlPRkVsNFNBeG9CanRuYWNHVEJYOTdpYjFGX0NmZGZNNFdHUzkwWjNjUElCMXdkOG13eE05OWljTzlmRWFFUEJMOXlGVGpqakVCZQ?oc=5",
+      "title": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Sat, 04 Jul 2026 21:05:00 GMT",
+      "date": "Sat, 04 Jul 2026 20:25:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
