@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-08T08:27:31.698Z",
-  "feedCount": 561,
-  "feedErrors": [],
+  "lastChecked": "2026-07-08T14:06:18.153Z",
+  "feedCount": 0,
+  "feedErrors": [
+    {
+      "feed": "https://news.google.com/rss/search?q=SpaceX+Starship+booster+catch&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=SpaceX+Starship+booster+catch&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=SpaceX+Starship+orbital+refueling&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=SpaceX+Starship+orbital+refueling&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=Starlink+subscribers+million&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=Starlink+subscribers+million&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=Starlink+direct+to+cell&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=Starlink+direct+to+cell&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=SpaceX+xAI+integration&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=SpaceX+xAI+integration&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    },
+    {
+      "feed": "https://news.google.com/rss/search?q=SpaceX+IPO+earnings+report&hl=en-US&gl=US&ceid=US:en",
+      "error": "Feed https://news.google.com/rss/search?q=SpaceX+IPO+earnings+report&hl=en-US&gl=US&ceid=US:en: HTTP 503"
+    }
+  ],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
@@ -118,55 +143,5 @@
       "matchedKeyword": null
     }
   },
-  "recentNews": [
-    {
-      "title": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
-      "milestoneId": "starship-orbital-catch",
-      "date": "Mon, 01 Sep 2025 07:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "milestoneId": "starlink-subscribers",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
-      "milestoneId": "starlink-d2c",
-      "date": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "milestoneId": "xai-official",
-      "date": "Fri, 13 Feb 2026 08:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "milestoneId": "xai-orbital-compute",
-      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "milestoneId": "xai-starship-launch",
-      "date": "Tue, 07 Jul 2026 04:26:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
-      "milestoneId": "fin-earnings",
-      "date": "Sat, 04 Jul 2026 20:25:00 GMT",
-      "source": "Auto-monitor RSS"
-    }
-  ]
+  "recentNews": []
 }
