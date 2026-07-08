@@ -1,40 +1,15 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-08T14:06:18.153Z",
-  "feedCount": 0,
-  "feedErrors": [
-    {
-      "feed": "https://news.google.com/rss/search?q=SpaceX+Starship+booster+catch&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=SpaceX+Starship+booster+catch&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    },
-    {
-      "feed": "https://news.google.com/rss/search?q=SpaceX+Starship+orbital+refueling&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=SpaceX+Starship+orbital+refueling&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    },
-    {
-      "feed": "https://news.google.com/rss/search?q=Starlink+subscribers+million&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=Starlink+subscribers+million&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    },
-    {
-      "feed": "https://news.google.com/rss/search?q=Starlink+direct+to+cell&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=Starlink+direct+to+cell&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    },
-    {
-      "feed": "https://news.google.com/rss/search?q=SpaceX+xAI+integration&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=SpaceX+xAI+integration&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    },
-    {
-      "feed": "https://news.google.com/rss/search?q=SpaceX+IPO+earnings+report&hl=en-US&gl=US&ceid=US:en",
-      "error": "Feed https://news.google.com/rss/search?q=SpaceX+IPO+earnings+report&hl=en-US&gl=US&ceid=US:en: HTTP 503"
-    }
-  ],
+  "lastChecked": "2026-07-08T19:24:36.703Z",
+  "feedCount": 462,
+  "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
-      "detectedAt": "2026-07-08T08:27:31.680Z",
+      "detectedAt": "2026-07-08T19:24:36.689Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -69,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-08T08:27:31.686Z",
+      "detectedAt": "2026-07-08T19:24:36.694Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
-      "detectedAt": "2026-07-08T08:27:31.688Z",
+      "evidence": "SpaceX Unveils 150Mbps Performance Target for Upgraded Direct-to-Cell Starlink - satnews.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0p3NnVKcW9GMFV6c012ZUR5RFpsemFFTDdjZ0J4dWJGZUZJWkZfZWRTcVZUZnVQeXJaY0Nid285cEIwUDBNOGtoeXFRTWdEbnNZOGVaWGFjT3l0S1lTay1nby13dnVFdF91NmNvWTNxZzlyamg0dzBFOEE1aTZFbzRNUkZhWnZVSXBVOU1aRWlzc2hnLUVCT2s1cDhudDYwN2VqRjM1c0JxZHZKTGhn?oc=5",
+      "detectedAt": "2026-07-08T19:24:36.695Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -122,7 +97,7 @@
       "confidence": "high",
       "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
-      "detectedAt": "2026-07-08T08:27:31.694Z",
+      "detectedAt": "2026-07-08T19:24:36.700Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sat, 04 Jul 2026 20:25:00 GMT"
     },
@@ -143,5 +118,34 @@
       "matchedKeyword": null
     }
   },
-  "recentNews": []
+  "recentNews": [
+    {
+      "title": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
+      "milestoneId": "starship-orbital-catch",
+      "date": "Mon, 01 Sep 2025 07:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
+      "milestoneId": "starlink-subscribers",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "SpaceX Unveils 150Mbps Performance Target for Upgraded Direct-to-Cell Starlink - satnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0p3NnVKcW9GMFV6c012ZUR5RFpsemFFTDdjZ0J4dWJGZUZJWkZfZWRTcVZUZnVQeXJaY0Nid285cEIwUDBNOGtoeXFRTWdEbnNZOGVaWGFjT3l0S1lTay1nby13dnVFdF91NmNvWTNxZzlyamg0dzBFOEE1aTZFbzRNUkZhWnZVSXBVOU1aRWlzc2hnLUVCT2s1cDhudDYwN2VqRjM1c0JxZHZKTGhn?oc=5",
+      "milestoneId": "starlink-d2c",
+      "date": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
+      "milestoneId": "fin-earnings",
+      "date": "Sat, 04 Jul 2026 20:25:00 GMT",
+      "source": "Auto-monitor RSS"
+    }
+  ]
 }
