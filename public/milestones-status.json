@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-11T13:18:12.740Z",
+  "lastChecked": "2026-07-11T19:02:35.833Z",
   "feedCount": 564,
   "feedErrors": [],
   "updates": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.722Z",
+      "detectedAt": "2026-07-11T19:02:35.815Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.728Z",
+      "detectedAt": "2026-07-11T19:02:35.821Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.729Z",
+      "detectedAt": "2026-07-11T19:02:35.823Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.732Z",
+      "detectedAt": "2026-07-11T19:02:35.826Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.734Z",
+      "detectedAt": "2026-07-11T19:02:35.827Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.735Z",
+      "detectedAt": "2026-07-11T19:02:35.829Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Tue, 07 Jul 2026 04:26:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - Yahoo Finance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlJMkw0OXZjQVRwanI2c2RfLTdvazRRc3lXbzUyTmgyUTN5NTMzeDlkTV9WOW56NnRhWTVCVk42VElJN3hpeHJXQW53RlZSWDBTMnR2UWlKeV9rclRicG96aFJOaXJ0bG9WSXBJUW4xV0NPc3ZrX2dtTW9sc2NXZU9oZFdtWHVCdUtObGVvUFk5NzJOWDNSZnFFeVo?oc=5",
-      "detectedAt": "2026-07-11T13:18:12.736Z",
+      "detectedAt": "2026-07-11T19:02:35.829Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sat, 04 Jul 2026 20:25:00 GMT"
     },
