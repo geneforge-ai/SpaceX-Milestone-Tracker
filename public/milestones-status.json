@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-16T13:49:16.093Z",
-  "feedCount": 561,
+  "lastChecked": "2026-07-16T19:09:49.241Z",
+  "feedCount": 559,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.075Z",
+      "detectedAt": "2026-07-16T19:09:49.228Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.081Z",
+      "detectedAt": "2026-07-16T19:09:49.232Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Airtel and SpaceX test Direct-to-Cell NTN service in Madagascar - Telecoms Tech News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG5tejJ1SUlxdlRFMjZzYi0taEJBNEtOUHpSZ2FkLVEzdEptZUJGTU1VTEkyalhPX25ldExFVzNsRnVDMzhncE1rUklxV21iNDZxMnliUGRTRzdDdTdMUkZMSWgxRUV0d0xtT2RaVm13UzJnV0EwR0VJV0pWcGF6NjFJVWVrN0h1VkE?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.083Z",
+      "evidence": "Madagascar Becomes the Third African Market to Trial Direct-to-Cell Satellite Connectivity - Space in Africa",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2N3X0d5d0VDTHBjZHJuWEVxQ3JfQU16NjRtUjl0UmMyTjVzQlpydURaU25yeHpPNzVSdVVWTmxOTG5ZYUVZVmNYWmFoZ01nRlpQTC1rY0otaFp1enpqM1ZiaVc2SGdQbENLWmRCVHZlQ08zWDQ4aXd4SXZDZHdLMDNHcW12bW50RUxnbnp6SjliZmxFTUszeEdkb0tJQVI5bUdCel92eHRNdmlBV1VqVWFWc1ZEVlFLTTJ1eGZnRHZfRFVLc0J3?oc=5",
+      "detectedAt": "2026-07-16T19:09:49.234Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Thu, 16 Jul 2026 08:03:54 GMT"
+      "pubDate": "Thu, 16 Jul 2026 09:17:58 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.085Z",
+      "detectedAt": "2026-07-16T19:09:49.236Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.087Z",
+      "detectedAt": "2026-07-16T19:09:49.237Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,16 +88,16 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.088Z",
+      "detectedAt": "2026-07-16T19:09:49.238Z",
       "matchedKeyword": "xai launch",
-      "pubDate": "Tue, 07 Jul 2026 04:26:00 GMT"
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
       "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - The Motley Fool",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JhLUgxa0JZS3BNRk9KVGhXRkoyRHZIOTE3VVFvaUt5cFd3OGFVRDMwYWtOdnJlc3JGOVVkbWJVV1A2cUU5dVNQa2FFVnlPRkVsNFNBeG9CanRuYWNHVEJYOTdpYjFGX0NmZGZNNFdHUzkwWjNjUElCMXdkOG13eE05OWljTzlmRWFFUEJMOXlGVGpqakVCZQ?oc=5",
-      "detectedAt": "2026-07-16T13:49:16.089Z",
+      "detectedAt": "2026-07-16T19:09:49.238Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sat, 04 Jul 2026 07:00:00 GMT"
     },
@@ -134,10 +134,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Airtel and SpaceX test Direct-to-Cell NTN service in Madagascar - Telecoms Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG5tejJ1SUlxdlRFMjZzYi0taEJBNEtOUHpSZ2FkLVEzdEptZUJGTU1VTEkyalhPX25ldExFVzNsRnVDMzhncE1rUklxV21iNDZxMnliUGRTRzdDdTdMUkZMSWgxRUV0d0xtT2RaVm13UzJnV0EwR0VJV0pWcGF6NjFJVWVrN0h1VkE?oc=5",
+      "title": "Madagascar Becomes the Third African Market to Trial Direct-to-Cell Satellite Connectivity - Space in Africa",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2N3X0d5d0VDTHBjZHJuWEVxQ3JfQU16NjRtUjl0UmMyTjVzQlpydURaU25yeHpPNzVSdVVWTmxOTG5ZYUVZVmNYWmFoZ01nRlpQTC1rY0otaFp1enpqM1ZiaVc2SGdQbENLWmRCVHZlQ08zWDQ4aXd4SXZDZHdLMDNHcW12bW50RUxnbnp6SjliZmxFTUszeEdkb0tJQVI5bUdCel92eHRNdmlBV1VqVWFWc1ZEVlFLTTJ1eGZnRHZfRFVLc0J3?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Thu, 16 Jul 2026 08:03:54 GMT",
+      "date": "Thu, 16 Jul 2026 09:17:58 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -158,7 +158,7 @@
       "title": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
       "milestoneId": "xai-starship-launch",
-      "date": "Tue, 07 Jul 2026 04:26:00 GMT",
+      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
