@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-15T19:10:01.321Z",
-  "feedCount": 561,
+  "lastChecked": "2026-07-16T02:33:43.828Z",
+  "feedCount": 559,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.304Z",
+      "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
+      "detectedAt": "2026-07-16T02:33:43.815Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.310Z",
+      "detectedAt": "2026-07-16T02:33:43.820Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Airtel Madagascar tests direct-to-cell satellite technology - Telecompaper",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDRqbm40WFhWc1djdlRYYjRmemgyTDF3WllvZkN3SjhWSnRQRVFncVVMRXBaOGV4TzFUaFI4TFBQX0VsQkVGLW1ZS3F4UmtFank4NjYzSTR4TVlYbTEyOUktZG5RdWd6WjM1eV9xR3NKOHo5OVBuUV9RclF0a3F4cVNRQl9HNHhYVDMxbVQyc0dyV2QwNzdfUUxDWjZOaHNGZk5TZQ?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.311Z",
+      "evidence": "[OPINION] The value of Globe Starlink’s direct-to-cell service - Rappler",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjRlU1p4blBZWTVtUjY1XzVVTlpESU53OHZrQksySXZCWV9PVXd3ZFc0SGxxbmZVMXdRMk16RVo0STRtRFY1WC1yazRxVTQyMXFBbHVaMHhUbUV0UHpuT1ZfWEphUFgxSWlIc1ZqUi1qQkZwZEItdlpMZ2ttbTlOUFdYRHVSR1RwbzRmZllwaTBxc09uaHZTejh5cEtGU1JXUGhZWVVaNEFqM3ZfQXk2LUlBTWhuQQ?oc=5",
+      "detectedAt": "2026-07-16T02:33:43.821Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Wed, 15 Jul 2026 07:04:46 GMT"
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.314Z",
+      "detectedAt": "2026-07-16T02:33:43.823Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.316Z",
+      "detectedAt": "2026-07-16T02:33:43.824Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.317Z",
+      "detectedAt": "2026-07-16T02:33:43.825Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Tue, 07 Jul 2026 04:26:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - The Motley Fool",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JhLUgxa0JZS3BNRk9KVGhXRkoyRHZIOTE3VVFvaUt5cFd3OGFVRDMwYWtOdnJlc3JGOVVkbWJVV1A2cUU5dVNQa2FFVnlPRkVsNFNBeG9CanRuYWNHVEJYOTdpYjFGX0NmZGZNNFdHUzkwWjNjUElCMXdkOG13eE05OWljTzlmRWFFUEJMOXlGVGpqakVCZQ?oc=5",
-      "detectedAt": "2026-07-15T19:10:01.318Z",
+      "detectedAt": "2026-07-16T02:33:43.826Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sat, 04 Jul 2026 07:00:00 GMT"
     },
@@ -120,8 +120,8 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX Prepares to Catch Starship With Giant “Mechazilla” Arms During Next Tests - Orbital Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzVIYThDTVN5Rjk2NDdrd0ZPWmd6dDdjTUpjcTdCZThfQXpCNUdlVklFenc5U0Jjb0dGLTZYSFdSTUprVmRMYnB1elNYWFlSS2dveHZYNEdyT1V1QjlNX0NjOXktOHBVanFtU1hQZ3E5Z1c1Sl9kbnFOTk8wNzlhNEhGaElPQUoyVEJ2RFBrR2FQM2t3UnMxR2RnRXNRYVFDYl9LSUdoMHZRTmp3R3c?oc=5",
+      "title": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
       "milestoneId": "starship-orbital-catch",
       "date": "Mon, 01 Sep 2025 07:00:00 GMT",
       "source": "Auto-monitor RSS"
@@ -134,10 +134,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Airtel Madagascar tests direct-to-cell satellite technology - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDRqbm40WFhWc1djdlRYYjRmemgyTDF3WllvZkN3SjhWSnRQRVFncVVMRXBaOGV4TzFUaFI4TFBQX0VsQkVGLW1ZS3F4UmtFank4NjYzSTR4TVlYbTEyOUktZG5RdWd6WjM1eV9xR3NKOHo5OVBuUV9RclF0a3F4cVNRQl9HNHhYVDMxbVQyc0dyV2QwNzdfUUxDWjZOaHNGZk5TZQ?oc=5",
+      "title": "[OPINION] The value of Globe Starlink’s direct-to-cell service - Rappler",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjRlU1p4blBZWTVtUjY1XzVVTlpESU53OHZrQksySXZCWV9PVXd3ZFc0SGxxbmZVMXdRMk16RVo0STRtRFY1WC1yazRxVTQyMXFBbHVaMHhUbUV0UHpuT1ZfWEphUFgxSWlIc1ZqUi1qQkZwZEItdlpMZ2ttbTlOUFdYRHVSR1RwbzRmZllwaTBxc09uaHZTejh5cEtGU1JXUGhZWVVaNEFqM3ZfQXk2LUlBTWhuQQ?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Wed, 15 Jul 2026 07:04:46 GMT",
+      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
