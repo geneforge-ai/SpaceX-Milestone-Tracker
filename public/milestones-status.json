@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-18T02:27:15.050Z",
-  "feedCount": 561,
+  "lastChecked": "2026-07-18T07:48:59.522Z",
+  "feedCount": 560,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.032Z",
+      "detectedAt": "2026-07-18T07:48:59.504Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - techspot.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.039Z",
+      "detectedAt": "2026-07-18T07:48:59.511Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Airtel Madagascar Completes First Direct-to-Cell Satellite Trial With SpaceX - CIO Africa",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVlYNzZzRkZReE1RNWduZDVkYk1GcDBoTko0Q1VVN1N1Y2twcWdiNkE4RGhGNmVCWkhhd25MZ0VKY1pMdlVZRkxxT2J2bUtEeVMySUZibE81eGUxVGYwNW95WEUzNTJ0bWxUUmJxX2hOSk1yRDVtV0pUZkJOaHpmZDZCeFBXMzV5elN0ckstZVBURFhTSkVhbWttdUtBZDg?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.040Z",
+      "evidence": "[OPINION] The value of Globe Starlink’s direct-to-cell service - Rappler",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjRlU1p4blBZWTVtUjY1XzVVTlpESU53OHZrQksySXZCWV9PVXd3ZFc0SGxxbmZVMXdRMk16RVo0STRtRFY1WC1yazRxVTQyMXFBbHVaMHhUbUV0UHpuT1ZfWEphUFgxSWlIc1ZqUi1qQkZwZEItdlpMZ2ttbTlOUFdYRHVSR1RwbzRmZllwaTBxc09uaHZTejh5cEtGU1JXUGhZWVVaNEFqM3ZfQXk2LUlBTWhuQQ?oc=5",
+      "detectedAt": "2026-07-18T07:48:59.512Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Fri, 17 Jul 2026 12:21:29 GMT"
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.043Z",
+      "detectedAt": "2026-07-18T07:48:59.515Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.044Z",
+      "detectedAt": "2026-07-18T07:48:59.516Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.046Z",
+      "detectedAt": "2026-07-18T07:48:59.518Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company? - The Motley Fool",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0JhLUgxa0JZS3BNRk9KVGhXRkoyRHZIOTE3VVFvaUt5cFd3OGFVRDMwYWtOdnJlc3JGOVVkbWJVV1A2cUU5dVNQa2FFVnlPRkVsNFNBeG9CanRuYWNHVEJYOTdpYjFGX0NmZGZNNFdHUzkwWjNjUElCMXdkOG13eE05OWljTzlmRWFFUEJMOXlGVGpqakVCZQ?oc=5",
-      "detectedAt": "2026-07-18T02:27:15.046Z",
+      "detectedAt": "2026-07-18T07:48:59.518Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sat, 04 Jul 2026 07:00:00 GMT"
     },
@@ -134,10 +134,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Airtel Madagascar Completes First Direct-to-Cell Satellite Trial With SpaceX - CIO Africa",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVlYNzZzRkZReE1RNWduZDVkYk1GcDBoTko0Q1VVN1N1Y2twcWdiNkE4RGhGNmVCWkhhd25MZ0VKY1pMdlVZRkxxT2J2bUtEeVMySUZibE81eGUxVGYwNW95WEUzNTJ0bWxUUmJxX2hOSk1yRDVtV0pUZkJOaHpmZDZCeFBXMzV5elN0ckstZVBURFhTSkVhbWttdUtBZDg?oc=5",
+      "title": "[OPINION] The value of Globe Starlink’s direct-to-cell service - Rappler",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjRlU1p4blBZWTVtUjY1XzVVTlpESU53OHZrQksySXZCWV9PVXd3ZFc0SGxxbmZVMXdRMk16RVo0STRtRFY1WC1yazRxVTQyMXFBbHVaMHhUbUV0UHpuT1ZfWEphUFgxSWlIc1ZqUi1qQkZwZEItdlpMZ2ttbTlOUFdYRHVSR1RwbzRmZllwaTBxc09uaHZTejh5cEtGU1JXUGhZWVVaNEFqM3ZfQXk2LUlBTWhuQQ?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Fri, 17 Jul 2026 12:21:29 GMT",
+      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
