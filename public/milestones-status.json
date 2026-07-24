@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-07-23T19:16:11.598Z",
-  "feedCount": 562,
+  "lastChecked": "2026-07-24T02:38:10.179Z",
+  "feedCount": 560,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.579Z",
+      "detectedAt": "2026-07-24T02:38:10.161Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.586Z",
+      "detectedAt": "2026-07-24T02:38:10.167Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.588Z",
+      "evidence": "Starlink Direct-to-Cell Service and Its Impact on Telecom Companies - Tekedia",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3B3QXVBMlpYWEF0VmdjMzdPaktnRlM3Y0U3LTZaRlJhc01YbEZiV2c0NU5ET19ILXdXV1VqZ01hX3MtUm1wVnBKZTJhMEVLTV96ZnVKc0xNNXVYa2lUdXE1Zm5uR053ck9iNlY2ajFsMVlma202T0NXMkZyUnZrbmYxeVJPLVRKM0FmOVFyVXplc1BaLVZj?oc=5",
+      "detectedAt": "2026-07-24T02:38:10.169Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Thu, 02 Jul 2026 08:02:40 GMT"
+      "pubDate": "Tue, 21 Jul 2026 20:04:08 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.590Z",
+      "detectedAt": "2026-07-24T02:38:10.172Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.592Z",
+      "detectedAt": "2026-07-24T02:38:10.173Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,18 +88,18 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.593Z",
+      "detectedAt": "2026-07-24T02:38:10.174Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX shares drop 49 percent from peak ahead of first earnings report - The News International",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjd3dU9sRTdEdWU4WE1uREJ2VTl3akFVeHlQOWVNX2ljMUxsX2xsX1F1ME91VzkyZmF2MzVueFI4cTBvY3hZQVRzZXhaRkwyak5mLVBvd0tLWDFYRzFzUHNoTE9zWDBCN0RURkhZSWxRdHVhNHdkUHhfTUZ6Rkk5eEFidGszbXdXYjgzVWg1UzdkWGo3QmJSc3VJRlcyOUVmWWVBbEhQZkRmS0tRRXRyS1hn?oc=5",
-      "detectedAt": "2026-07-23T19:16:11.594Z",
+      "evidence": "Prediction: Here's What SpaceX Stock Will Do After Its First Earnings Report - Yahoo Finance",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazhLenM4ZDFGc29KQWFKOTQ4NkNwUjUtV1RaQ3RtaFhVUzhOcVJNaHppZy1ZRkV6clhvaW1Pc191dXdoSFM5RDJPZWNFUDBHZi1rSEs0dFpOcng1bVpFa0RoZGQ1QXVHVDdCOE9jd3RPTFdhdXJ5YkM3ZWFTMXVURng2empyaFlOOTc1bUlHdlg2Z09mX0VRaTBrUHZrX3JLb0E?oc=5",
+      "detectedAt": "2026-07-24T02:38:10.175Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Thu, 23 Jul 2026 17:35:24 GMT"
+      "pubDate": "Thu, 23 Jul 2026 20:38:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -134,10 +134,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
+      "title": "Starlink Direct-to-Cell Service and Its Impact on Telecom Companies - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3B3QXVBMlpYWEF0VmdjMzdPaktnRlM3Y0U3LTZaRlJhc01YbEZiV2c0NU5ET19ILXdXV1VqZ01hX3MtUm1wVnBKZTJhMEVLTV96ZnVKc0xNNXVYa2lUdXE1Zm5uR053ck9iNlY2ajFsMVlma202T0NXMkZyUnZrbmYxeVJPLVRKM0FmOVFyVXplc1BaLVZj?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Thu, 02 Jul 2026 08:02:40 GMT",
+      "date": "Tue, 21 Jul 2026 20:04:08 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -162,10 +162,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX shares drop 49 percent from peak ahead of first earnings report - The News International",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjd3dU9sRTdEdWU4WE1uREJ2VTl3akFVeHlQOWVNX2ljMUxsX2xsX1F1ME91VzkyZmF2MzVueFI4cTBvY3hZQVRzZXhaRkwyak5mLVBvd0tLWDFYRzFzUHNoTE9zWDBCN0RURkhZSWxRdHVhNHdkUHhfTUZ6Rkk5eEFidGszbXdXYjgzVWg1UzdkWGo3QmJSc3VJRlcyOUVmWWVBbEhQZkRmS0tRRXRyS1hn?oc=5",
+      "title": "Prediction: Here's What SpaceX Stock Will Do After Its First Earnings Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazhLenM4ZDFGc29KQWFKOTQ4NkNwUjUtV1RaQ3RtaFhVUzhOcVJNaHppZy1ZRkV6clhvaW1Pc191dXdoSFM5RDJPZWNFUDBHZi1rSEs0dFpOcng1bVpFa0RoZGQ1QXVHVDdCOE9jd3RPTFdhdXJ5YkM3ZWFTMXVURng2empyaFlOOTc1bUlHdlg2Z09mX0VRaTBrUHZrX3JLb0E?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Thu, 23 Jul 2026 17:35:24 GMT",
+      "date": "Thu, 23 Jul 2026 20:38:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
