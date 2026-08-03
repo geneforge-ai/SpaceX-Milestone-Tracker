@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-08-02T19:08:42.973Z",
-  "feedCount": 562,
+  "lastChecked": "2026-08-03T02:45:20.772Z",
+  "feedCount": 561,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.956Z",
+      "detectedAt": "2026-08-03T02:45:20.753Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - techspot.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.962Z",
+      "detectedAt": "2026-08-03T02:45:20.760Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Starlink to trial Direct-to-Cell in Malaysia: Works with normal 4G phones, no satellite phone required - SoyaCincau",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMExmWjBVTkJWWlNMZVo0WkNGYzZXZmZYQUt6cGQybVQzTFlJWndIbXlJOHJ1WXIwcHgzWFJXZEl3cDRMelpCeHhaTzc4YWc4eEZRUGpDOF9PMGlmS0s0cmJ0Nk14Ym90cEp3cmFNNVlIbGc1M0JKa0Y3clhRN0hYWnBFc2RZRURLWFVNY19wN0ZUVW5vak1rXzYzcXI0N3ItY0dpNkktLVl6UQ?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.963Z",
+      "detectedAt": "2026-08-03T02:45:20.761Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Sat, 01 Aug 2026 14:12:12 GMT"
     },
@@ -70,25 +70,25 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.966Z",
+      "detectedAt": "2026-08-03T02:45:20.764Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     "xai-orbital-compute": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.967Z",
+      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - cryptobriefing.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
+      "detectedAt": "2026-08-03T02:45:20.766Z",
       "matchedKeyword": "orbital data center",
-      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     "xai-starship-launch": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.968Z",
+      "detectedAt": "2026-08-03T02:45:20.767Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "What to Expect in Markets this Week: SpaceX’s First Earnings Report; Earnings From Chip and Memory Giants - Investopedia",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUDlLQnFXOVV1Z3NaNmhmcDlQNGJrT3BISE1PakdWWEVOX1Q4eDhscU1BZTdqVllFU2lVQ2dXVTBjdElwLUxVa2h0bV9iYnp1a0gwbjVPRW1WWXR1SVdnMHN4aHcyTGpRZEhNaW52SDZlREZBSVVfYXBrZHJtcm5XZmE4S1l6Rm5HcEFTMDB4OW1tWkU2bm8zSGtFd1NtbVV6YzBlNk1BYXBxckRFWG43azBLNlJ6OVlfeG9XaTNuUC01Vzdqc25BUmdRSkZ3X1NMV0RMdm1GanI2ejZMV0x5Vi04djlqOXVQdS1aeg?oc=5",
-      "detectedAt": "2026-08-02T19:08:42.969Z",
+      "detectedAt": "2026-08-03T02:45:20.768Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Sun, 02 Aug 2026 09:00:00 GMT"
     },
@@ -148,10 +148,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
+      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
       "milestoneId": "xai-orbital-compute",
-      "date": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
