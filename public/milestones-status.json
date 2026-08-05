@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastChecked": "2026-08-04T19:36:53.797Z",
-  "feedCount": 563,
+  "lastChecked": "2026-08-05T02:28:26.867Z",
+  "feedCount": 551,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "evidence": "Mechazilla will try to capture the Starship - universemagazine.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.779Z",
+      "detectedAt": "2026-08-05T02:28:26.849Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -42,18 +42,18 @@
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.785Z",
+      "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag UK",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3BKZmNieEhLZDAtYVpoczRiTDliYXRkek1VZzlsLWtJUjRJbVNtQW9iM1NYTi1zdDhkaEtFN0FnQjlIdHJIS3lYZW1JcjFQb0RRV1AyaTFmYXR4M0I1blBmLWo5QlhId2ZETEp3anpYWl9GSkF2NDRBeXBKQW1NSG0zWmVzTE82U0pyZUtqZjdaVEFEeXE1WXFwY09pMGxxLXhmSG1tS1BDMWRKSkxnaQ?oc=5",
+      "detectedAt": "2026-08-05T02:28:26.855Z",
       "matchedKeyword": "12 million subscribers",
-      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
+      "pubDate": "Tue, 04 Aug 2026 21:04:40 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "Starlink to trial Direct-to-Cell in Malaysia: Works with normal 4G phones, no satellite phone required - SoyaCincau",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMExmWjBVTkJWWlNMZVo0WkNGYzZXZmZYQUt6cGQybVQzTFlJWndIbXlJOHJ1WXIwcHgzWFJXZEl3cDRMelpCeHhaTzc4YWc4eEZRUGpDOF9PMGlmS0s0cmJ0Nk14Ym90cEp3cmFNNVlIbGc1M0JKa0Y3clhRN0hYWnBFc2RZRURLWFVNY19wN0ZUVW5vak1rXzYzcXI0N3ItY0dpNkktLVl6UQ?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.787Z",
+      "detectedAt": "2026-08-05T02:28:26.857Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Sat, 01 Aug 2026 14:12:12 GMT"
     },
@@ -70,36 +70,36 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.790Z",
+      "detectedAt": "2026-08-05T02:28:26.860Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     "xai-orbital-compute": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.791Z",
+      "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
+      "detectedAt": "2026-08-05T02:28:26.861Z",
       "matchedKeyword": "orbital data center",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
     "xai-starship-launch": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.792Z",
+      "detectedAt": "2026-08-05T02:28:26.863Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX set to release its first earnings report as a public company. Here's what to look for. - CBS News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqcWF4UXlmdjNuT0NObjVjSjlmNV9FTS1XbVNqOGp2OHFhTFpQMnhKYjhsS2t1RHk5ZU94M3dnTHo4NzVzNmVTRHY1U3VPVmRndEI3MUs0OG42ZHR5NHM5Mk9YWGpycDlDWWU0VWhDLWFKRWxnQ3BWMXh3?oc=5",
-      "detectedAt": "2026-08-04T19:36:53.793Z",
+      "evidence": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO - CNBC",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkQ2SWFzU2h4SE90dlpQNWNSWE9MOE5uNDFWalVQM0MycXVtQml5WUVBeWwxWEY2X0UwTDVIeE5TZXlxMk51NnFON25iZHMxZXVlLWhRQlVLMzlhWmlFb0Yxa19KYzhRTFdsVjNrZVg2akdVZGgtUE1UU1JobG15cXlYbFPSAYoBQVVfeXFMTXU3SFJRdEZvTUdjYmNITEJwQ2x0eXFMSGRmMkFHeUxQTFRzRUFQZFRTeTdEZGp3cGFPZmdtX0hfOWNGR0xTd0FIaUo2NXRiSDFMUFJVZGVRX2FFMm9SWWdZMmZxX050VlVrcjZCRkxhRjBqWHNXX3M2a1dFNHVqWERZUldOcUE0Nm13?oc=5",
+      "detectedAt": "2026-08-05T02:28:26.863Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Mon, 03 Aug 2026 17:23:00 GMT"
+      "pubDate": "Wed, 05 Aug 2026 00:16:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -120,17 +120,17 @@
   },
   "recentNews": [
     {
-      "title": "Mechazilla will try to capture the Starship - Universe Space Tech",
+      "title": "Mechazilla will try to capture the Starship - universemagazine.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
       "milestoneId": "starship-orbital-catch",
       "date": "Mon, 01 Sep 2025 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
+      "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3BKZmNieEhLZDAtYVpoczRiTDliYXRkek1VZzlsLWtJUjRJbVNtQW9iM1NYTi1zdDhkaEtFN0FnQjlIdHJIS3lYZW1JcjFQb0RRV1AyaTFmYXR4M0I1blBmLWo5QlhId2ZETEp3anpYWl9GSkF2NDRBeXBKQW1NSG0zWmVzTE82U0pyZUtqZjdaVEFEeXE1WXFwY09pMGxxLXhmSG1tS1BDMWRKSkxnaQ?oc=5",
       "milestoneId": "starlink-subscribers",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "date": "Tue, 04 Aug 2026 21:04:40 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -148,10 +148,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
+      "title": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
       "milestoneId": "xai-orbital-compute",
-      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -162,10 +162,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX set to release its first earnings report as a public company. Here's what to look for. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqcWF4UXlmdjNuT0NObjVjSjlmNV9FTS1XbVNqOGp2OHFhTFpQMnhKYjhsS2t1RHk5ZU94M3dnTHo4NzVzNmVTRHY1U3VPVmRndEI3MUs0OG42ZHR5NHM5Mk9YWGpycDlDWWU0VWhDLWFKRWxnQ3BWMXh3?oc=5",
+      "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkQ2SWFzU2h4SE90dlpQNWNSWE9MOE5uNDFWalVQM0MycXVtQml5WUVBeWwxWEY2X0UwTDVIeE5TZXlxMk51NnFON25iZHMxZXVlLWhRQlVLMzlhWmlFb0Yxa19KYzhRTFdsVjNrZVg2akdVZGgtUE1UU1JobG15cXlYbFPSAYoBQVVfeXFMTXU3SFJRdEZvTUdjYmNITEJwQ2x0eXFMSGRmMkFHeUxQTFRzRUFQZFRTeTdEZGp3cGFPZmdtX0hfOWNGR0xTd0FIaUo2NXRiSDFMUFJVZGVRX2FFMm9SWWdZMmZxX050VlVrcjZCRkxhRjBqWHNXX3M2a1dFNHVqWERZUldOcUE0Nm13?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Mon, 03 Aug 2026 17:23:00 GMT",
+      "date": "Wed, 05 Aug 2026 00:16:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
