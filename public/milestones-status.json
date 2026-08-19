@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-08-19T01:11:38.943Z",
-  "feedCount": 562,
+  "lastChecked": "2026-08-19T06:41:26.520Z",
+  "feedCount": 563,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.929Z",
+      "detectedAt": "2026-08-19T06:41:26.503Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - driveteslacanada.ca",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.934Z",
+      "detectedAt": "2026-08-19T06:41:26.509Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Unveils 150Mbps Performance Target for Upgraded Direct-to-Cell Starlink - satnews.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0p3NnVKcW9GMFV6c012ZUR5RFpsemFFTDdjZ0J4dWJGZUZJWkZfZWRTcVZUZnVQeXJaY0Nid285cEIwUDBNOGtoeXFRTWdEbnNZOGVaWGFjT3l0S1lTay1nby13dnVFdF91NmNvWTNxZzlyamg0dzBFOEE1aTZFbzRNUkZhWnZVSXBVOU1aRWlzc2hnLUVCT2s1cDhudDYwN2VqRjM1c0JxZHZKTGhn?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.935Z",
+      "detectedAt": "2026-08-19T06:41:26.510Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
@@ -70,16 +70,16 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.937Z",
+      "detectedAt": "2026-08-19T06:41:26.513Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     "xai-orbital-compute": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - cryptobriefing.com",
+      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.939Z",
+      "detectedAt": "2026-08-19T06:41:26.515Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.940Z",
+      "detectedAt": "2026-08-19T06:41:26.516Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-08-19T01:11:38.940Z",
+      "detectedAt": "2026-08-19T06:41:26.516Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -148,7 +148,7 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - cryptobriefing.com",
+      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
       "milestoneId": "xai-orbital-compute",
       "date": "Mon, 02 Feb 2026 08:00:00 GMT",
