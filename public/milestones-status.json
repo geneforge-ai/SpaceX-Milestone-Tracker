@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastChecked": "2026-08-20T01:10:56.457Z",
+  "lastChecked": "2026-08-20T06:43:20.234Z",
   "feedCount": 563,
   "feedErrors": [],
   "updates": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.443Z",
+      "detectedAt": "2026-08-20T06:43:20.217Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - driveteslacanada.ca",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.448Z",
+      "detectedAt": "2026-08-20T06:43:20.223Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX Unveils 150Mbps Performance Target for Upgraded Direct-to-Cell Starlink - satnews.com",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0p3NnVKcW9GMFV6c012ZUR5RFpsemFFTDdjZ0J4dWJGZUZJWkZfZWRTcVZUZnVQeXJaY0Nid285cEIwUDBNOGtoeXFRTWdEbnNZOGVaWGFjT3l0S1lTay1nby13dnVFdF91NmNvWTNxZzlyamg0dzBFOEE1aTZFbzRNUkZhWnZVSXBVOU1aRWlzc2hnLUVCT2s1cDhudDYwN2VqRjM1c0JxZHZKTGhn?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.449Z",
+      "evidence": "Direct-to-Cell Satellite Trials - Trend Hunter",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRm1iRjhSWXRJeWdBTXoyQ1NrM2RVU3NOQjA0ZF9wbWpIeW1ZVXUwMHZRa0MzcDMzRlhIMWVHYWdSSUhPQVhvbUVFT0VnSVdGMnlnYjV4Q0dfbTRfNkFCNVV3?oc=5",
+      "detectedAt": "2026-08-20T06:43:20.224Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+      "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -68,9 +68,9 @@
     "xai-official": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.451Z",
+      "detectedAt": "2026-08-20T06:43:20.227Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.452Z",
+      "detectedAt": "2026-08-20T06:43:20.228Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,18 +88,18 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - 富途牛牛",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2ZZczAwdE9ONEk2ajBMNGExcTFqMm1hQm4yU2M2c25sbWV4MlRhRFdvTlBuNXpVancyeXYza2pFTmlzcDZfNmI5NzRFWkphUW1Rd3FaV0wyUHllcF9KdUlfQzN5NF9aZDZoY2N2WExmREVNcVE5bnl6VFF2Y09UYmctYXdSV0tjRDlqcUJaZ21kUVhvZDBNcGtMWFR3TmZNa2YweER0WWFuVk1M?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.454Z",
+      "detectedAt": "2026-08-20T06:43:20.230Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
-      "detectedAt": "2026-08-20T01:10:56.454Z",
+      "evidence": "SpaceX Supplier Tumbles After First Earnings Report Since IPO - Investor's Business Daily",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHhmLWJ4UVlaaTNPUDV0RGJYczRFUzA2UTg2VDhkekF0OWsxNG1jd1lFYUNQT2RmS0lCbTdvbzU3MEdfdFJhWUJLbC1tRE1ZeW5lWHRxU2pERGpYbWJ2OEM2Vm9PZm14enROaXVZZVRyaVJwbksxUnR3ODdJOTB2T1dQZzdXd0VhUlcwNEFPT0c4Zw?oc=5",
+      "detectedAt": "2026-08-20T06:43:20.230Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
+      "pubDate": "Thu, 13 Aug 2026 13:35:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -134,14 +134,14 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX Unveils 150Mbps Performance Target for Upgraded Direct-to-Cell Starlink - satnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0p3NnVKcW9GMFV6c012ZUR5RFpsemFFTDdjZ0J4dWJGZUZJWkZfZWRTcVZUZnVQeXJaY0Nid285cEIwUDBNOGtoeXFRTWdEbnNZOGVaWGFjT3l0S1lTay1nby13dnVFdF91NmNvWTNxZzlyamg0dzBFOEE1aTZFbzRNUkZhWnZVSXBVOU1aRWlzc2hnLUVCT2s1cDhudDYwN2VqRjM1c0JxZHZKTGhn?oc=5",
+      "title": "Direct-to-Cell Satellite Trials - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRm1iRjhSWXRJeWdBTXoyQ1NrM2RVU3NOQjA0ZF9wbWpIeW1ZVXUwMHZRa0MzcDMzRlhIMWVHYWdSSUhPQVhvbUVFT0VnSVdGMnlnYjV4Q0dfbTRfNkFCNVV3?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "date": "Sun, 09 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "title": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
       "milestoneId": "xai-official",
       "date": "Fri, 13 Feb 2026 08:00:00 GMT",
@@ -162,10 +162,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
+      "title": "SpaceX Supplier Tumbles After First Earnings Report Since IPO - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHhmLWJ4UVlaaTNPUDV0RGJYczRFUzA2UTg2VDhkekF0OWsxNG1jd1lFYUNQT2RmS0lCbTdvbzU3MEdfdFJhWUJLbC1tRE1ZeW5lWHRxU2pERGpYbWJ2OEM2Vm9PZm14enROaXVZZVRyaVJwbksxUnR3ODdJOTB2T1dQZzdXd0VhUlcwNEFPT0c4Zw?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "date": "Thu, 13 Aug 2026 13:35:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
