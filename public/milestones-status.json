@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-08-25T01:12:45.455Z",
-  "feedCount": 565,
+  "lastChecked": "2026-08-25T06:44:53.943Z",
+  "feedCount": 568,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Mechazilla will try to capture the Starship - Universe Space Tech",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnUxNXRrNGRSZzJILVdhRXdMUDV4RTlURDQtaWo5cFlkaFNTaW9GRl9fckl5Z2MyNzlqNHlpMnF2RllrUElnOHA2S1dhTkV0SWgxTFdzNEhLVHlZejN1U2QwdlJJZ2dUQk5nbHA1UkRGb3pxUnJvOE9jM1FUUTNmRng2OG44d2R2NUlKdmpuNA?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.437Z",
+      "detectedAt": "2026-08-25T06:44:53.925Z",
       "matchedKeyword": "mechazilla",
       "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.443Z",
+      "detectedAt": "2026-08-25T06:44:53.932Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Spain’s Wildfires Put Starlink’s Direct-to-Cell Network to the Test - HackerNoon",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0Q1VGUtRDlEcmpFRnZReXV5WWtWeGJSZm5BUm9QYzJaU2c2bkpOdkRkNEVBR0g0NXl4YXFxY0FVOHZHVjdJY1pUR293TWV1cWpqSG1tNEJfbmlkNlZETUJLVHBPUnZpWF91TW11alJoSHE2OVdmRjZXWGpFbDZiakRjRE8zNzNNeldabVNOZ2ZYdw?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.445Z",
+      "detectedAt": "2026-08-25T06:44:53.933Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 20 Aug 2026 16:46:34 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.447Z",
+      "detectedAt": "2026-08-25T06:44:53.936Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.449Z",
+      "detectedAt": "2026-08-25T06:44:53.937Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-08-25T01:12:45.451Z",
+      "detectedAt": "2026-08-25T06:44:53.939Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
