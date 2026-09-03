@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-02T20:34:03.138Z",
-  "feedCount": 520,
+  "lastChecked": "2026-09-03T03:11:14.275Z",
+  "feedCount": 510,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Starship Flight 14: 5 Details That Matter Right Now - BASENOR - Tesla Accessories",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW9wOWh0clJaWHFIV2VFeTJQam1YZ1NwLWdrb0VHWEkyNTNYODRkS1lpZ3ptYm5Sdm1sY3pJeFI2OXcxSUdRTnpQeE9xeXJkdGduMm1mdmR5S1NlVjZEM1lKM1ZlVHJzbmhpRkZyYXI5aVhxQU13RFV5U3oxVXZLNlQzelpMQURha042cmpB?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.122Z",
+      "detectedAt": "2026-09-03T03:11:14.258Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - driveteslacanada.ca",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.128Z",
+      "detectedAt": "2026-09-03T03:11:14.264Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.129Z",
+      "detectedAt": "2026-09-03T03:11:14.266Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.132Z",
+      "detectedAt": "2026-09-03T03:11:14.268Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.133Z",
+      "detectedAt": "2026-09-03T03:11:14.270Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.134Z",
+      "detectedAt": "2026-09-03T03:11:14.271Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-09-02T20:34:03.135Z",
+      "detectedAt": "2026-09-03T03:11:14.271Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
