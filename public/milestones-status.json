@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-03T10:44:34.171Z",
-  "feedCount": 511,
+  "lastChecked": "2026-09-03T15:52:20.224Z",
+  "feedCount": 331,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Starship Flight 14: 5 Details That Matter Right Now - BASENOR - Tesla Accessories",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW9wOWh0clJaWHFIV2VFeTJQam1YZ1NwLWdrb0VHWEkyNTNYODRkS1lpZ3ptYm5Sdm1sY3pJeFI2OXcxSUdRTnpQeE9xeXJkdGduMm1mdmR5S1NlVjZEM1lKM1ZlVHJzbmhpRkZyYXI5aVhxQU13RFV5U3oxVXZLNlQzelpMQURha042cmpB?oc=5",
-      "detectedAt": "2026-09-03T10:44:34.155Z",
+      "evidence": "SpaceX Starship Flight 13 Stuck Its Splashdown. The Harder Test Is Still Ahead - Martin Cid Magazine",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFFKcUJtZXdSRjFhaGdnZTI2a1dCS2hMQTVhVTBNQU5VbHBOMTdHRE9La21lZmhVVXo4OVdGT3dTR0p4S0tRbDEwdmpNWjlOV2toa0F3NUxrdlFtVHZzSmFpYzRKV2dJc2ZHQ0N6OEJ4YXNGeUNVQmZuZjlIejUxeFhxTFdWSDZPZmFLa3RFT2M5MFk?oc=5",
+      "detectedAt": "2026-09-03T15:52:20.213Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+      "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -42,20 +42,20 @@
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - driveteslacanada.ca",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
-      "detectedAt": "2026-09-03T10:44:34.161Z",
-      "matchedKeyword": "12 million subscribers",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
+      "evidence": "Starlink Has 10 Million Subscribers, and It's Just Getting Started. Here's Why That Matters for SpaceX Investors. - theglobeandmail.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQVdjYV9aLUhrZUFwdW90a1hkOGs3T2hORzE4am1mTDF5QjZGWmtVVmthb3FBZnNWbWJGX3JUX3h0eGVhLTRmTml0TUJ6QjV1Zmw0WDZVcGlHclhkQkRNZnczQzZNZndwblFfWkt1SEtHWWZYamJUbEp2cmgzdGpoaS15dlNqVk91WllkLVJzZ2ROUi1ORWxJUXRKX19zZy1Wb3dURkcwSzd1MVp5X3J1RGR6ZXRlZ0VMYmJadW8xc013UmIxWTJkaTBabVQ0QkVQbHJ0cVNoLUI0UkQ2RlBSbnBOUmoycGJyUFo2TzdSUEZ6TlJ1RTVwOHBsbnU5eVlYNU84V1Q0dFJyX0hGOHBvNkFOWkhrTEJM?oc=5",
+      "detectedAt": "2026-09-03T15:52:20.217Z",
+      "matchedKeyword": "10 million subscribers",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
-      "detectedAt": "2026-09-03T10:44:34.162Z",
+      "evidence": "Spain’s Wildfires Put Starlink’s Direct-to-Cell Network to the Test - HackerNoon",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0Q1VGUtRDlEcmpFRnZReXV5WWtWeGJSZm5BUm9QYzJaU2c2bkpOdkRkNEVBR0g0NXl4YXFxY0FVOHZHVjdJY1pUR293TWV1cWpqSG1tNEJfbmlkNlZETUJLVHBPUnZpWF91TW11alJoSHE2OVdmRjZXWGpFbDZiakRjRE8zNzNNeldabVNOZ2ZYdw?oc=5",
+      "detectedAt": "2026-09-03T15:52:20.218Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
+      "pubDate": "Thu, 20 Aug 2026 16:46:34 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -95,11 +95,11 @@
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-09-03T10:44:34.168Z",
+      "evidence": "What Wall Street expects from SpaceX’s first earnings report - thestreet.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTBsMlNLcktaOHdxN0RvSVZOWmRWRWRNS0JFSW00VVp1MmpuUy1xUThCcFpuekNvRHpmY3lLb0hzTGIzTGJNUmRCQlhqTHRWaXExWWRmWXRaSnRxdEZUX2FNbUg3aE9QOTRJaGxIYUFoeUpkbFUxUGoxZEZxemtiNHV1ZWRpcnhkTGczanh0Sl91UGxfMlhXaElyMy13TTh1MlJlSw?oc=5",
+      "detectedAt": "2026-09-03T15:52:20.221Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -120,45 +120,31 @@
   },
   "recentNews": [
     {
-      "title": "Starship Flight 14: 5 Details That Matter Right Now - BASENOR - Tesla Accessories",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW9wOWh0clJaWHFIV2VFeTJQam1YZ1NwLWdrb0VHWEkyNTNYODRkS1lpZ3ptYm5Sdm1sY3pJeFI2OXcxSUdRTnpQeE9xeXJkdGduMm1mdmR5S1NlVjZEM1lKM1ZlVHJzbmhpRkZyYXI5aVhxQU13RFV5U3oxVXZLNlQzelpMQURha042cmpB?oc=5",
+      "title": "SpaceX Starship Flight 13 Stuck Its Splashdown. The Harder Test Is Still Ahead - Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFFKcUJtZXdSRjFhaGdnZTI2a1dCS2hMQTVhVTBNQU5VbHBOMTdHRE9La21lZmhVVXo4OVdGT3dTR0p4S0tRbDEwdmpNWjlOV2toa0F3NUxrdlFtVHZzSmFpYzRKV2dJc2ZHQ0N6OEJ4YXNGeUNVQmZuZjlIejUxeFhxTFdWSDZPZmFLa3RFT2M5MFk?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Sun, 16 Aug 2026 07:00:00 GMT",
+      "date": "Sat, 25 Jul 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - driveteslacanada.ca",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
+      "title": "Starlink Has 10 Million Subscribers, and It's Just Getting Started. Here's Why That Matters for SpaceX Investors. - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQVdjYV9aLUhrZUFwdW90a1hkOGs3T2hORzE4am1mTDF5QjZGWmtVVmthb3FBZnNWbWJGX3JUX3h0eGVhLTRmTml0TUJ6QjV1Zmw0WDZVcGlHclhkQkRNZnczQzZNZndwblFfWkt1SEtHWWZYamJUbEp2cmgzdGpoaS15dlNqVk91WllkLVJzZ2ROUi1ORWxJUXRKX19zZy1Wb3dURkcwSzd1MVp5X3J1RGR6ZXRlZ0VMYmJadW8xc013UmIxWTJkaTBabVQ0QkVQbHJ0cVNoLUI0UkQ2RlBSbnBOUmoycGJyUFo2TzdSUEZ6TlJ1RTVwOHBsbnU5eVlYNU84V1Q0dFJyX0hGOHBvNkFOWkhrTEJM?oc=5",
       "milestoneId": "starlink-subscribers",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink’s Direct-to-Cell service hits 3m users in Ukraine - Total Telecom",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUg1Uk5UaDg2Zlk1RGt5TGJmQ09CUC1WOFliNzdCVS03aHM4VzRXWFVrVVgtSlZxVWtaYzhWLThrd1RHenRRd25EcjRLbFpLRHVSYlFOQVZORGswaHE5ZF9QNDRfdmpjOFM4WkIxekN6S3c0Nk5MRkZ1elNnZXNESS1MRXBTRjg?oc=5",
+      "title": "Spain’s Wildfires Put Starlink’s Direct-to-Cell Network to the Test - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0Q1VGUtRDlEcmpFRnZReXV5WWtWeGJSZm5BUm9QYzJaU2c2bkpOdkRkNEVBR0g0NXl4YXFxY0FVOHZHVjdJY1pUR293TWV1cWpqSG1tNEJfbmlkNlZETUJLVHBPUnZpWF91TW11alJoSHE2OVdmRjZXWGpFbDZiakRjRE8zNzNNeldabVNOZ2ZYdw?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "date": "Thu, 20 Aug 2026 16:46:34 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "milestoneId": "xai-orbital-compute",
-      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "milestoneId": "xai-starship-launch",
-      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
+      "title": "What Wall Street expects from SpaceX’s first earnings report - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTBsMlNLcktaOHdxN0RvSVZOWmRWRWRNS0JFSW00VVp1MmpuUy1xUThCcFpuekNvRHpmY3lLb0hzTGIzTGJNUmRCQlhqTHRWaXExWWRmWXRaSnRxdEZUX2FNbUg3aE9QOTRJaGxIYUFoeUpkbFUxUGoxZEZxemtiNHV1ZWRpcnhkTGczanh0Sl91UGxfMlhXaElyMy13TTh1MlJlSw?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
