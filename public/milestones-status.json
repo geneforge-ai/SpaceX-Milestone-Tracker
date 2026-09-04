@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-04T03:07:38.235Z",
-  "feedCount": 510,
+  "lastChecked": "2026-09-04T10:41:51.147Z",
+  "feedCount": 497,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX’s Starship Flight 14 is key step toward growth ramp: UBS (SPCX:NASDAQ) - Seeking Alpha",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1drRTNEY1ByU0g5RTBMbmRudHM0Z1YzUVVDTHNQeVJYR0JmRUNMMXBGRzc4eDlsTk5uNW5adUN1N0lKWWFVUUJ4aG92ajdPWFVCZHU2MDlPYmM2RXhmTjBMeVA5MTNnTWZuX1Z6aC00SVVPWW5DakVTaHFGWFA2ZHpsc29hX2ZUcmg2d2Y1a2RSalZjazdwYnhHNTlXNHBZdWc?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.219Z",
+      "evidence": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - Mshale",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUU5fWUs3TU9fNkN6S0xNS3VsNmVNekZUajFfWDlKaFBvZDRtT1VrcS1jOERjYURNOWtRQVpFdEduMUZnQWxySk9fb2E5Q1ozWUJFajlOVGdRQkU?oc=5",
+      "detectedAt": "2026-09-04T10:41:51.132Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT"
+      "pubDate": "Thu, 03 Sep 2026 08:27:06 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.225Z",
+      "detectedAt": "2026-09-04T10:41:51.137Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.226Z",
+      "detectedAt": "2026-09-04T10:41:51.139Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
@@ -68,20 +68,20 @@
     "xai-official": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.229Z",
+      "detectedAt": "2026-09-04T10:41:51.141Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     "xai-orbital-compute": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.230Z",
+      "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
+      "detectedAt": "2026-09-04T10:41:51.142Z",
       "matchedKeyword": "orbital data center",
-      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     "xai-starship-launch": {
       "status": "in-corso",
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-09-04T03:07:38.232Z",
+      "detectedAt": "2026-09-04T10:41:51.144Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,10 +120,10 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX’s Starship Flight 14 is key step toward growth ramp: UBS (SPCX:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1drRTNEY1ByU0g5RTBMbmRudHM0Z1YzUVVDTHNQeVJYR0JmRUNMMXBGRzc4eDlsTk5uNW5adUN1N0lKWWFVUUJ4aG92ajdPWFVCZHU2MDlPYmM2RXhmTjBMeVA5MTNnTWZuX1Z6aC00SVVPWW5DakVTaHFGWFA2ZHpsc29hX2ZUcmg2d2Y1a2RSalZjazdwYnhHNTlXNHBZdWc?oc=5",
+      "title": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUU5fWUs3TU9fNkN6S0xNS3VsNmVNekZUajFfWDlKaFBvZDRtT1VrcS1jOERjYURNOWtRQVpFdEduMUZnQWxySk9fb2E5Q1ozWUJFajlOVGdRQkU?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "date": "Thu, 03 Sep 2026 08:27:06 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -141,24 +141,17 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
+      "title": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
       "milestoneId": "xai-official",
       "date": "Fri, 13 Feb 2026 08:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
+      "title": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
       "milestoneId": "xai-orbital-compute",
-      "date": "Wed, 04 Feb 2026 08:00:00 GMT",
-      "source": "Auto-monitor RSS"
-    },
-    {
-      "title": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQThwbUQtc2pob3hXTEhBY0JqQzExdFNnZFJpeUVhVWRIZThSSmFOQWwwelhHVUJwaEljTlc3NldHMHMwbHdWQzZVT2xxYm4taEt4M2hDcUtjaF92ZHRLRjZOakFiaWtYVW9uanhMQ2ZkSXNWVVpyUEVZeFhlZWlKOUdtRVFURFpMR0Fsb25QNDRjdnlvMWFoVXRydGNaU01TdTVPc1gtRkZwcTBGT0E?oc=5",
-      "milestoneId": "xai-starship-launch",
-      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
