@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-04T10:41:51.147Z",
-  "feedCount": 497,
+  "lastChecked": "2026-09-04T15:49:54.673Z",
+  "feedCount": 527,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - Mshale",
+      "evidence": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - mshale.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUU5fWUs3TU9fNkN6S0xNS3VsNmVNekZUajFfWDlKaFBvZDRtT1VrcS1jOERjYURNOWtRQVpFdEduMUZnQWxySk9fb2E5Q1ozWUJFajlOVGdRQkU?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.132Z",
+      "detectedAt": "2026-09-04T15:49:54.656Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Thu, 03 Sep 2026 08:27:06 GMT"
     },
@@ -42,18 +42,18 @@
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.137Z",
+      "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
+      "detectedAt": "2026-09-04T15:49:54.662Z",
       "matchedKeyword": "12 million subscribers",
-      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
+      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "Direct-to-cell satellite services find their proving ground in Asia - Telecoms Tech News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJQSWt2cFJLUFJSMWh2NmVpUGJ5OGN5anFlbUFMdkpic3dmWUZfYUI0eUxoY2lWbmstdUFsWmY2cTJ5Qm5TdW84UTZkck1INFRpaE5KZEVnQXVndUZ1eGQ3cFpnVXM1bG1vc1V5NGMtdWJWSHI0eENoTWNSR09rM2VMSzUySElBTFdB?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.139Z",
+      "detectedAt": "2026-09-04T15:49:54.664Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
@@ -68,9 +68,9 @@
     "xai-official": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
+      "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.141Z",
+      "detectedAt": "2026-09-04T15:49:54.666Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.142Z",
+      "detectedAt": "2026-09-04T15:49:54.668Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-09-04T10:41:51.144Z",
+      "detectedAt": "2026-09-04T15:49:54.669Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,17 +120,17 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - Mshale",
+      "title": "SpaceX Is About To Attempt Something Never Done Before With Starship Flight 14! Julio Rodríguez (2fZL3QUaFM) - mshale.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUU5fWUs3TU9fNkN6S0xNS3VsNmVNekZUajFfWDlKaFBvZDRtT1VrcS1jOERjYURNOWtRQVpFdEduMUZnQWxySk9fb2E5Q1ozWUJFajlOVGdRQkU?oc=5",
       "milestoneId": "starship-orbital-catch",
       "date": "Thu, 03 Sep 2026 08:27:06 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites - TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFcyY0RoRTItYmVzdGRpSXdWWTBMa2lGNEN6ZEU4TnZ1a3cxM2ExeVZQVzBPTVBzdW5yYlZxVzlXM3o5STVaZjE5T1NnUFpkVWdpcE5aNDV5bktRSnZKRkxrMU5MRWFRLXZwUmJoZjQ5Q1ZfWW45X2UtdXYza0J1YUZ1QV9hSm9nTlZLMHhVQnBTbXdaSFNGcjFTNlloc3c?oc=5",
+      "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
       "milestoneId": "starlink-subscribers",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -141,7 +141,7 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "The SpaceX xAI Merger Is A Giant Red Flag - wlockett.medium.com",
+      "title": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
       "milestoneId": "xai-official",
       "date": "Fri, 13 Feb 2026 08:00:00 GMT",
