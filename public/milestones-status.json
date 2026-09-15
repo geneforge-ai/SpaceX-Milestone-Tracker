@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-15T03:37:26.004Z",
+  "lastChecked": "2026-09-15T11:11:21.581Z",
   "feedCount": 568,
   "feedErrors": [],
   "updates": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Starship Flight Test 14 Odds &amp; Prediction Market Analysis - CryptoSlate",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdk42d01CWWk5eUxTRVhtb2dhTG9Nb0thZDI5djlHSkpOblNseW5WcEQyU0xzRHk1Vzd4V3cyR0M5b0lCZ2plY1A3WDBtck9XVUh0c3RWY04wRlFBR0ZYMUYzSzBtdFZaYW5vOS01WHpTM3JXVHBrX3owaWtHMFU?oc=5",
-      "detectedAt": "2026-09-15T03:37:25.986Z",
+      "detectedAt": "2026-09-15T11:11:21.563Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
@@ -42,18 +42,18 @@
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-09-15T03:37:25.993Z",
+      "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag UK",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3BKZmNieEhLZDAtYVpoczRiTDliYXRkek1VZzlsLWtJUjRJbVNtQW9iM1NYTi1zdDhkaEtFN0FnQjlIdHJIS3lYZW1JcjFQb0RRV1AyaTFmYXR4M0I1blBmLWo5QlhId2ZETEp3anpYWl9GSkF2NDRBeXBKQW1NSG0zWmVzTE82U0pyZUtqZjdaVEFEeXE1WXFwY09pMGxxLXhmSG1tS1BDMWRKSkxnaQ?oc=5",
+      "detectedAt": "2026-09-15T11:11:21.570Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Madagascar prepares to launch Starlink direct-to-cell mobile services - SatellitePro ME",
+      "evidence": "Madagascar prepares to launch Starlink direct-to-cell mobile services - satelliteprome.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU19US1pwUVdSWE1qWDlOZXVZSXhwMVlvdUlVWk02ZmdncXRibTJXR2dDRWlaWk5fT3ExLUNwY3NTTEVtRGhmOUs4ZkxySUF3Zkc3d0lZd3liNmYteHZnMWw1SVNYcVNERDN3RnM0OUhKa3hzTWZ3YlJzdFZjZVRNM1pLTHEtN1dYNzVFenlJU2xaOVBoQmN5UWZlR0lpZ3VRSDFseDVEWDc2WGFPSUdLZ0tNMUdUc3lES1JQQ2FOb3oybGo4aUw5UHJJSVQ?oc=5",
-      "detectedAt": "2026-09-15T03:37:25.994Z",
+      "detectedAt": "2026-09-15T11:11:21.571Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Mon, 08 Jun 2026 14:20:39 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-09-15T03:37:25.997Z",
+      "detectedAt": "2026-09-15T11:11:21.574Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -88,18 +88,18 @@
       "confidence": "medium",
       "evidence": "Musk adds another piece to his 'integration puzzle': SpaceXAI launches simultaneously with a new logo! - Moomoo",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQThwbUQtc2pob3hXTEhBY0JqQzExdFNnZFJpeUVhVWRIZThSSmFOQWwwelhHVUJwaEljTlc3NldHMHMwbHdWQzZVT2xxYm4taEt4M2hDcUtjaF92ZHRLRjZOakFiaWtYVW9uanhMQ2ZkSXNWVVpyUEVZeFhlZWlKOUdtRVFURFpMR0Fsb25QNDRjdnlvMWFoVXRydGNaU01TdTVPc1gtRkZwcTBGT0E?oc=5",
-      "detectedAt": "2026-09-15T03:37:26.000Z",
+      "detectedAt": "2026-09-15T11:11:21.577Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX shows strong growth in its first earnings report since going public - cbsnews.com",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-09-15T03:37:26.000Z",
+      "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - cnbc.com",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
+      "detectedAt": "2026-09-15T11:11:21.577Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -127,14 +127,14 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
+      "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3BKZmNieEhLZDAtYVpoczRiTDliYXRkek1VZzlsLWtJUjRJbVNtQW9iM1NYTi1zdDhkaEtFN0FnQjlIdHJIS3lYZW1JcjFQb0RRV1AyaTFmYXR4M0I1blBmLWo5QlhId2ZETEp3anpYWl9GSkF2NDRBeXBKQW1NSG0zWmVzTE82U0pyZUtqZjdaVEFEeXE1WXFwY09pMGxxLXhmSG1tS1BDMWRKSkxnaQ?oc=5",
       "milestoneId": "starlink-subscribers",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Madagascar prepares to launch Starlink direct-to-cell mobile services - SatellitePro ME",
+      "title": "Madagascar prepares to launch Starlink direct-to-cell mobile services - satelliteprome.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU19US1pwUVdSWE1qWDlOZXVZSXhwMVlvdUlVWk02ZmdncXRibTJXR2dDRWlaWk5fT3ExLUNwY3NTTEVtRGhmOUs4ZkxySUF3Zkc3d0lZd3liNmYteHZnMWw1SVNYcVNERDN3RnM0OUhKa3hzTWZ3YlJzdFZjZVRNM1pLTHEtN1dYNzVFenlJU2xaOVBoQmN5UWZlR0lpZ3VRSDFseDVEWDc2WGFPSUdLZ0tNMUdUc3lES1JQQ2FOb3oybGo4aUw5UHJJSVQ?oc=5",
       "milestoneId": "starlink-d2c",
       "date": "Mon, 08 Jun 2026 14:20:39 GMT",
@@ -155,10 +155,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX shows strong growth in its first earnings report since going public - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
+      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
