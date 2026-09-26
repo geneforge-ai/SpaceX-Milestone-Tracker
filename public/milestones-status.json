@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-09-25T21:08:32.573Z",
-  "feedCount": 559,
+  "lastChecked": "2026-09-26T03:46:05.418Z",
+  "feedCount": 558,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch - Investor's Business Daily",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjQ0aEg5TnVBU0dVaVo1OXNUZFV1T0VKVE0zUEo2YzF4YTlkeV9ZTlVfb1NOTmNJWnFrRE40cTdwbWFsU1ZBWGROcEFfLTRTMXdiZFF2QUJLRTRSUU5fdGIxUHN5ZVlNbTFDOVVEY1I0RTVUZjg3Mld3X1NXNlYyREozdGNrTm1BWExLS1ZicW4?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.555Z",
+      "detectedAt": "2026-09-26T03:46:05.404Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.561Z",
+      "detectedAt": "2026-09-26T03:46:05.409Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Banglalink to provide Starlink Direct-to-Cell service - New Age BD",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTk1T2lYMTR5R3V1bXpWeTZCM1VYTXpSS1JTd2VqbVA0cFd2VjYtcDBHbDJoTWxWN3lxanUtOTJRelNULTdKQVUwMjgyVkdrcU45amxsTXRkWFhhUVd4OTAza1RBOUMydkpiRmRZWDBQekdvdjdaMVF5OFdxMzdxc0RTb3pMTUhlMGxBWXFWWG0wOTRhUi1UQk1Va1k0TmM?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.563Z",
+      "detectedAt": "2026-09-26T03:46:05.410Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 24 Sep 2026 18:00:00 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.566Z",
+      "detectedAt": "2026-09-26T03:46:05.413Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX acquires xAI as Musk pitches orbital data centers ahead of $1 trillion IPO - Crypto Briefing",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VT1ZrdXpMNHlsRjZsc1ZjVWtudnJraGpJUGNUTEZmYklrUl9taVk1b3JXanEwYzYwZGxXcWxPU2VfSDdaT2tPNzFXeUtfdXIyMHpkX1NVOE84QjFrRHFKSE04VTh0UGphT044a3p4U3EtR0wxWEtlamdlMA?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.567Z",
+      "detectedAt": "2026-09-26T03:46:05.414Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.568Z",
+      "detectedAt": "2026-09-26T03:46:05.415Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-09-25T21:08:32.569Z",
+      "detectedAt": "2026-09-26T03:46:05.415Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
