@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-03T20:38:47.322Z",
-  "feedCount": 558,
+  "lastChecked": "2026-10-04T04:32:57.138Z",
+  "feedCount": 561,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch - Investor's Business Daily",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjQ0aEg5TnVBU0dVaVo1OXNUZFV1T0VKVE0zUEo2YzF4YTlkeV9ZTlVfb1NOTmNJWnFrRE40cTdwbWFsU1ZBWGROcEFfLTRTMXdiZFF2QUJLRTRSUU5fdGIxUHN5ZVlNbTFDOVVEY1I0RTVUZjg3Mld3X1NXNlYyREozdGNrTm1BWExLS1ZicW4?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.307Z",
+      "evidence": "Starship Flight 14 Captured on Film — Flight 15 Is Next - BASENOR",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2kwTmpUNDJpVTAxLW1NNkVfOWI0b1JaSnYtU0Z4SEd5dDNEbVp1VFIyMDZEVUVNVTJLckhPX0lGaWQzc3dHazdmcFU0TGsweFlHMVh4QWpkdUNrcEpPRmMtendUQXpnc0J2RVBDV2h5T0JyVzNVOG9JNWktTVFEY2E4T0dWQXh4MjNvaTN2aDN6QQ?oc=5",
+      "detectedAt": "2026-10-04T04:32:57.123Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
+      "pubDate": "Thu, 01 Oct 2026 04:03:29 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.313Z",
+      "detectedAt": "2026-10-04T04:32:57.129Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Beyond Connectivity: Exploiting Starlink Direct-to-Cell Signals for PNT - Inside GNSS",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dhdGxfajVVOUlRWFI4NXRNa1U3ckIxUDdYSU5oeEIzcXpibTRGZDRrVW5KUDhBbmI2N0NtX3Z0NTZMVG1LdzR1QllmYXNoWW9JaDA4MFo1Ujk0dno4ZlR4LVgtbHVNcEJJLTVaNGdVcHlycG9Yc2k5QmdIdDY3YWROVGFTSUVqRENKMElrbjlnN3VjeGdTanNB?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.314Z",
+      "detectedAt": "2026-10-04T04:32:57.130Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Fri, 02 Oct 2026 19:45:54 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.316Z",
+      "detectedAt": "2026-10-04T04:32:57.132Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.318Z",
+      "detectedAt": "2026-10-04T04:32:57.135Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-03T20:38:47.319Z",
+      "detectedAt": "2026-10-04T04:32:57.135Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,10 +120,10 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjQ0aEg5TnVBU0dVaVo1OXNUZFV1T0VKVE0zUEo2YzF4YTlkeV9ZTlVfb1NOTmNJWnFrRE40cTdwbWFsU1ZBWGROcEFfLTRTMXdiZFF2QUJLRTRSUU5fdGIxUHN5ZVlNbTFDOVVEY1I0RTVUZjg3Mld3X1NXNlYyREozdGNrTm1BWExLS1ZicW4?oc=5",
+      "title": "Starship Flight 14 Captured on Film — Flight 15 Is Next - BASENOR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2kwTmpUNDJpVTAxLW1NNkVfOWI0b1JaSnYtU0Z4SEd5dDNEbVp1VFIyMDZEVUVNVTJLckhPX0lGaWQzc3dHazdmcFU0TGsweFlHMVh4QWpkdUNrcEpPRmMtendUQXpnc0J2RVBDV2h5T0JyVzNVOG9JNWktTVFEY2E4T0dWQXh4MjNvaTN2aDN6QQ?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "date": "Thu, 01 Oct 2026 04:03:29 GMT",
       "source": "Auto-monitor RSS"
     },
     {
