@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-07T04:33:31.868Z",
-  "feedCount": 558,
+  "lastChecked": "2026-10-07T12:44:00.649Z",
+  "feedCount": 559,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Starship Flight 14 Captured on Film — Flight 15 Is Next - BASENOR",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2kwTmpUNDJpVTAxLW1NNkVfOWI0b1JaSnYtU0Z4SEd5dDNEbVp1VFIyMDZEVUVNVTJLckhPX0lGaWQzc3dHazdmcFU0TGsweFlHMVh4QWpkdUNrcEpPRmMtendUQXpnc0J2RVBDV2h5T0JyVzNVOG9JNWktTVFEY2E4T0dWQXh4MjNvaTN2aDN6QQ?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.851Z",
+      "detectedAt": "2026-10-07T12:44:00.634Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Thu, 01 Oct 2026 04:03:29 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.857Z",
+      "detectedAt": "2026-10-07T12:44:00.640Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 06 Oct 2026 12:18:02 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Beyond Connectivity: Exploiting Starlink Direct-to-Cell Signals for PNT - Inside GNSS",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dhdGxfajVVOUlRWFI4NXRNa1U3ckIxUDdYSU5oeEIzcXpibTRGZDRrVW5KUDhBbmI2N0NtX3Z0NTZMVG1LdzR1QllmYXNoWW9JaDA4MFo1Ujk0dno4ZlR4LVgtbHVNcEJJLTVaNGdVcHlycG9Yc2k5QmdIdDY3YWROVGFTSUVqRENKMElrbjlnN3VjeGdTanNB?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.859Z",
+      "detectedAt": "2026-10-07T12:44:00.641Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Fri, 02 Oct 2026 19:45:54 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.861Z",
+      "detectedAt": "2026-10-07T12:44:00.643Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX’s AI Satellites: Revolution in AI Compute - livetradingnews.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3VBVklUSDMxeUhhNnFHcll0SVg2R28zZ0tlYTIyVnNfdkdJVUxFV0daVEE3QVBOQ3dZZWVLaDRDeURWdHVQRWI2ZGpudUZBMUt0OUFWekl5M1hpT0hCaDRILWNtS3F0NXplZlQwNHF2RGJYMnhTSERFMmhsNExzYzlFYVpVVVNPTHJLVloyenN3Mm9CSE9MTVZhSnpxT1c2MVluV3B1YklheXQ2aElNUw?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.863Z",
+      "detectedAt": "2026-10-07T12:44:00.645Z",
       "matchedKeyword": "ai satellites",
       "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.864Z",
+      "detectedAt": "2026-10-07T12:44:00.645Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-07T04:33:31.864Z",
+      "detectedAt": "2026-10-07T12:44:00.646Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
