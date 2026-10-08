@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-08T12:53:24.478Z",
-  "feedCount": 565,
+  "lastChecked": "2026-10-08T22:58:17.034Z",
+  "feedCount": 562,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Starship Flight 14: 5 Details That Matter Right Now - BASENOR",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW9wOWh0clJaWHFIV2VFeTJQam1YZ1NwLWdrb0VHWEkyNTNYODRkS1lpZ3ptYm5Sdm1sY3pJeFI2OXcxSUdRTnpQeE9xeXJkdGduMm1mdmR5S1NlVjZEM1lKM1ZlVHJzbmhpRkZyYXI5aVhxQU13RFV5U3oxVXZLNlQzelpMQURha042cmpB?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.460Z",
+      "evidence": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch - Investor's Business Daily",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjQ0aEg5TnVBU0dVaVo1OXNUZFV1T0VKVE0zUEo2YzF4YTlkeV9ZTlVfb1NOTmNJWnFrRE40cTdwbWFsU1ZBWGROcEFfLTRTMXdiZFF2QUJLRTRSUU5fdGIxUHN5ZVlNbTFDOVVEY1I0RTVUZjg3Mld3X1NXNlYyREozdGNrTm1BWExLS1ZicW4?oc=5",
+      "detectedAt": "2026-10-08T22:58:17.021Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+      "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.467Z",
+      "detectedAt": "2026-10-08T22:58:17.026Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 06 Oct 2026 12:18:02 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "FCC Grants SpaceX Approval for 15,000 Direct-to-Cell Starlink Satellites - TeslaNorth.com",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVJqanRxSUhBRkpvamw3dVVINDZuM09zREtXa1p4QTNVQjkyNzA1TmdrMDFlUkpSQS1IbzdGM25FMUFYUExRaHVadWN0alRQdXdLWDlSbVEtaUdjR2ZlX1NMcFh1TmlDNkY2eWdKSmlpSUdGek9va1FMMk55U1lObnp5Q0N4Z01PLVZ2VQ?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.468Z",
+      "evidence": "Beyond Connectivity: Exploiting Starlink Direct-to-Cell Signals for PNT - Inside GNSS",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dhdGxfajVVOUlRWFI4NXRNa1U3ckIxUDdYSU5oeEIzcXpibTRGZDRrVW5KUDhBbmI2N0NtX3Z0NTZMVG1LdzR1QllmYXNoWW9JaDA4MFo1Ujk0dno4ZlR4LVgtbHVNcEJJLTVaNGdVcHlycG9Yc2k5QmdIdDY3YWROVGFTSUVqRENKMElrbjlnN3VjeGdTanNB?oc=5",
+      "detectedAt": "2026-10-08T22:58:17.027Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Wed, 07 Oct 2026 14:54:04 GMT"
+      "pubDate": "Fri, 02 Oct 2026 19:45:54 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.471Z",
+      "detectedAt": "2026-10-08T22:58:17.029Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX’s AI Satellites: Revolution in AI Compute - livetradingnews.com",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3VBVklUSDMxeUhhNnFHcll0SVg2R28zZ0tlYTIyVnNfdkdJVUxFV0daVEE3QVBOQ3dZZWVLaDRDeURWdHVQRWI2ZGpudUZBMUt0OUFWekl5M1hpT0hCaDRILWNtS3F0NXplZlQwNHF2RGJYMnhTSERFMmhsNExzYzlFYVpVVVNPTHJLVloyenN3Mm9CSE9MTVZhSnpxT1c2MVluV3B1YklheXQ2aElNUw?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.473Z",
+      "detectedAt": "2026-10-08T22:58:17.030Z",
       "matchedKeyword": "ai satellites",
       "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.474Z",
+      "detectedAt": "2026-10-08T22:58:17.031Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-08T12:53:24.474Z",
+      "detectedAt": "2026-10-08T22:58:17.031Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,10 +120,10 @@
   },
   "recentNews": [
     {
-      "title": "Starship Flight 14: 5 Details That Matter Right Now - BASENOR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW9wOWh0clJaWHFIV2VFeTJQam1YZ1NwLWdrb0VHWEkyNTNYODRkS1lpZ3ptYm5Sdm1sY3pJeFI2OXcxSUdRTnpQeE9xeXJkdGduMm1mdmR5S1NlVjZEM1lKM1ZlVHJzbmhpRkZyYXI5aVhxQU13RFV5U3oxVXZLNlQzelpMQURha042cmpB?oc=5",
+      "title": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjQ0aEg5TnVBU0dVaVo1OXNUZFV1T0VKVE0zUEo2YzF4YTlkeV9ZTlVfb1NOTmNJWnFrRE40cTdwbWFsU1ZBWGROcEFfLTRTMXdiZFF2QUJLRTRSUU5fdGIxUHN5ZVlNbTFDOVVEY1I0RTVUZjg3Mld3X1NXNlYyREozdGNrTm1BWExLS1ZicW4?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Sun, 16 Aug 2026 07:00:00 GMT",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -134,10 +134,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "FCC Grants SpaceX Approval for 15,000 Direct-to-Cell Starlink Satellites - TeslaNorth.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVJqanRxSUhBRkpvamw3dVVINDZuM09zREtXa1p4QTNVQjkyNzA1TmdrMDFlUkpSQS1IbzdGM25FMUFYUExRaHVadWN0alRQdXdLWDlSbVEtaUdjR2ZlX1NMcFh1TmlDNkY2eWdKSmlpSUdGek9va1FMMk55U1lObnp5Q0N4Z01PLVZ2VQ?oc=5",
+      "title": "Beyond Connectivity: Exploiting Starlink Direct-to-Cell Signals for PNT - Inside GNSS",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dhdGxfajVVOUlRWFI4NXRNa1U3ckIxUDdYSU5oeEIzcXpibTRGZDRrVW5KUDhBbmI2N0NtX3Z0NTZMVG1LdzR1QllmYXNoWW9JaDA4MFo1Ujk0dno4ZlR4LVgtbHVNcEJJLTVaNGdVcHlycG9Yc2k5QmdIdDY3YWROVGFTSUVqRENKMElrbjlnN3VjeGdTanNB?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Wed, 07 Oct 2026 14:54:04 GMT",
+      "date": "Fri, 02 Oct 2026 19:45:54 GMT",
       "source": "Auto-monitor RSS"
     },
     {
