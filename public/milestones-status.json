@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-15T03:24:57.367Z",
-  "feedCount": 558,
+  "lastChecked": "2026-10-15T10:55:38.721Z",
+  "feedCount": 556,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "Next Starship Launch, Flight 15 Date and Every Starship Flight So Far - KeepTrack",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbVh5LVE5VkZnR2VfUlFRd1dtQndkMEROZDh2Sk1OZnNqaU1HRVBqdVlnSXVTeS1hbVZ4M21hQXVWZDF2YXMwQmI1LUdRd1JKUWttOGJPNmN0RmpvNE1oZFE3RnczbUlx?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.349Z",
+      "detectedAt": "2026-10-15T10:55:38.703Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Sun, 11 Oct 2026 09:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.356Z",
+      "detectedAt": "2026-10-15T10:55:38.710Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 06 Oct 2026 12:18:02 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.357Z",
+      "detectedAt": "2026-10-15T10:55:38.711Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Mon, 05 Oct 2026 17:32:09 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.360Z",
+      "detectedAt": "2026-10-15T10:55:38.714Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.363Z",
+      "detectedAt": "2026-10-15T10:55:38.717Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-15T03:24:57.363Z",
+      "detectedAt": "2026-10-15T10:55:38.717Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
