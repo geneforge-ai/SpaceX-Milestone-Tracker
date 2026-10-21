@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-21T16:41:14.720Z",
-  "feedCount": 426,
+  "lastChecked": "2026-10-21T21:17:43.018Z",
+  "feedCount": 536,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Starship Flight 15: Elon Musk says SpaceX will try to catch both rocket stages next month - Starlust.org",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJkeWl4Yl85QmpOSUl6ZUtvVndqUUdIazVraFRTSDlqaHdjMlZNYUVxYWY0Ym4tRlkzaERRMXFWejl1WGxNcDgyYW1pTXNmRDFTQ1dKX2o4MlJiYnFyN281a1kxaVp0TjlJbC1sUE44dWVoeE1may1yRWZRRXU1ZGxiQXdKV3N5SGdZUGhlZGs5UF9FdTZ3WGZZYzhoeHExdFNVVkJOMWY3cU1vdFNv?oc=5",
-      "detectedAt": "2026-10-21T16:41:14.706Z",
+      "evidence": "Starship Flight 15: 5 Details That Matter - BASENOR",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2FyanZJNGFsa1VLN0ZrU1dGeThQVFNaYWtKSFhXMi1kLUFyQVJscDlxT2dMV3hzQk9aNVlvMWVBQWNWRjdUbFdOc2Q3V3pFQ29saFVSeFRoODhpUGdOYVJnRG1rdFRFT0JkR19ocjBwdHNkQjAzVE4yT1VWQXl6ag?oc=5",
+      "detectedAt": "2026-10-21T21:17:43.005Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Wed, 21 Oct 2026 10:49:14 GMT"
+      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-10-21T16:41:14.711Z",
+      "detectedAt": "2026-10-21T21:17:43.010Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
-      "detectedAt": "2026-10-21T16:41:14.712Z",
+      "detectedAt": "2026-10-21T21:17:43.011Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Mon, 05 Oct 2026 17:32:09 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-21T16:41:14.714Z",
+      "detectedAt": "2026-10-21T21:17:43.013Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-21T11:15:11.138Z",
+      "detectedAt": "2026-10-21T21:17:43.015Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-21T16:41:14.717Z",
+      "detectedAt": "2026-10-21T21:17:43.015Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,10 +120,10 @@
   },
   "recentNews": [
     {
-      "title": "Starship Flight 15: Elon Musk says SpaceX will try to catch both rocket stages next month - Starlust.org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJkeWl4Yl85QmpOSUl6ZUtvVndqUUdIazVraFRTSDlqaHdjMlZNYUVxYWY0Ym4tRlkzaERRMXFWejl1WGxNcDgyYW1pTXNmRDFTQ1dKX2o4MlJiYnFyN281a1kxaVp0TjlJbC1sUE44dWVoeE1may1yRWZRRXU1ZGxiQXdKV3N5SGdZUGhlZGs5UF9FdTZ3WGZZYzhoeHExdFNVVkJOMWY3cU1vdFNv?oc=5",
+      "title": "Starship Flight 15: 5 Details That Matter - BASENOR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2FyanZJNGFsa1VLN0ZrU1dGeThQVFNaYWtKSFhXMi1kLUFyQVJscDlxT2dMV3hzQk9aNVlvMWVBQWNWRjdUbFdOc2Q3V3pFQ29saFVSeFRoODhpUGdOYVJnRG1rdFRFT0JkR19ocjBwdHNkQjAzVE4yT1VWQXl6ag?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Wed, 21 Oct 2026 10:49:14 GMT",
+      "date": "Sat, 10 Oct 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -145,6 +145,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
       "milestoneId": "xai-official",
       "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
+      "milestoneId": "xai-starship-launch",
+      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
