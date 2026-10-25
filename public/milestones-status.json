@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-25T10:49:15.999Z",
-  "feedCount": 540,
+  "lastChecked": "2026-10-25T15:37:22.807Z",
+  "feedCount": 513,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Starship Flight 15: November Dual Catch Plan - https://tech-insider.org/",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlg5NHI4SXlvSFo5X19MRzROTWtvcXhZYk5LU0RtOHotZkVyY25hQnMzWjJWejhRT09rS2FKcERNdEtNcmd4T2ZPN0VucDNwLW5abFk1UjB1Mzk3T3JETlJzVTQzTWhqcG41Q2UyWDMtMllQNkp5LXBxUlhBWVJHQzV3?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.983Z",
+      "detectedAt": "2026-10-25T15:37:22.794Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Wed, 21 Oct 2026 21:38:16 GMT"
     },
@@ -25,11 +25,11 @@
     "starship-crew": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "At Least 15 Starship Launches Needed to Execute Artemis III Lunar Landing - SpacePolicyOnline.com",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmpvQmFNV2E2NXM1a3p1WlcyNmM5YWN3R2dZTmZjeDk2YUdNMzJUQ0RSQ21kaDA3QjZuVjk2MmpJR0s2LWhBX3NTbU5hS214YU1RWkFHLXl5aTRmZExkbVdDT1VMLTZESm40b29HUWRNUGJ2eTV4Qm45dERpS0gzSkdQQ3dlcTkwVXRqVzZCNVlaYjNBMzVGWm8yMW90SmdPTDBuOQ?oc=5",
-      "detectedAt": "2026-06-24T11:03:34.395Z",
+      "evidence": "Blue Origin's amazing preparation for Artemis III and IV - Starlust.org",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZsVHRwck9XZVJ6Mmxsd0Q1cWZvdWkxUENLMjh1QlAwZlFYTWJ3Q3lsMkpmT2N3aHoxRWM1RnN1RDZ2SUYtNXBaZENMT0Zpek43M2xsZzVNUFRFMGFPTHd1MTdDYllIQi1MV3JFcGdUdlZnNVhzcTF3dW5JNzNCb3pn?oc=5",
+      "detectedAt": "2026-10-25T15:37:22.797Z",
       "matchedKeyword": "artemis iii",
-      "pubDate": "Fri, 17 Nov 2023 08:00:00 GMT"
+      "pubDate": "Fri, 23 Oct 2026 21:16:46 GMT"
     },
     "starship-cadence": {
       "status": "non-iniziato",
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.989Z",
+      "detectedAt": "2026-10-25T15:37:22.798Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
@@ -53,9 +53,9 @@
       "confidence": "medium",
       "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.990Z",
+      "detectedAt": "2026-10-25T15:37:22.799Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Mon, 05 Oct 2026 17:32:09 GMT"
+      "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.993Z",
+      "detectedAt": "2026-10-25T15:37:22.801Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.994Z",
+      "detectedAt": "2026-10-25T15:37:22.802Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.995Z",
+      "detectedAt": "2026-10-25T15:37:22.803Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-25T10:49:15.996Z",
+      "detectedAt": "2026-10-25T15:37:22.804Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -127,6 +127,13 @@
       "source": "Auto-monitor RSS"
     },
     {
+      "title": "Blue Origin's amazing preparation for Artemis III and IV - Starlust.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZsVHRwck9XZVJ6Mmxsd0Q1cWZvdWkxUENLMjh1QlAwZlFYTWJ3Q3lsMkpmT2N3aHoxRWM1RnN1RDZ2SUYtNXBaZENMT0Zpek43M2xsZzVNUFRFMGFPTHd1MTdDYllIQi1MV3JFcGdUdlZnNVhzcTF3dW5JNzNCb3pn?oc=5",
+      "milestoneId": "starship-crew",
+      "date": "Fri, 23 Oct 2026 21:16:46 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
       "title": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
       "milestoneId": "starlink-subscribers",
@@ -137,7 +144,7 @@
       "title": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Mon, 05 Oct 2026 17:32:09 GMT",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
