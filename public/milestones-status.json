@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-26T22:20:16.266Z",
-  "feedCount": 543,
+  "lastChecked": "2026-10-27T03:53:22.593Z",
+  "feedCount": 505,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX fires all 33 engines on super heavy booster 22 in Starship flight 15 test - The News International",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnlacWowelJ6Wlp0eExnd1RpUTJ0c1F6anQwTHJDLUNzSUF6aG9tOTh2VktYRmtEM0dJa0s2ZjFZYUY3SlRaV0k3Znk1R1NkY2VFTWJSREI4RzlHckhFWW5JR3U5YUMxdDNlVldyeDlsaXhPWVAzU3JIVVhCQUk3MEp2bm16d2NFRHpLRUQ2S2RPVnJDa3RYcnpnV21tWHkxdWk3eFNDQVVJdXcwZ3hIejlkQ1F0eVNpV0pQOHQ0WQ?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.249Z",
+      "evidence": "SpaceX Starship Flight 15: November Dual Catch Plan - https://tech-insider.org/",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlg5NHI4SXlvSFo5X19MRzROTWtvcXhZYk5LU0RtOHotZkVyY25hQnMzWjJWejhRT09rS2FKcERNdEtNcmd4T2ZPN0VucDNwLW5abFk1UjB1Mzk3T3JETlJzVTQzTWhqcG41Q2UyWDMtMllQNkp5LXBxUlhBWVJHQzV3?oc=5",
+      "detectedAt": "2026-10-27T03:53:22.577Z",
       "matchedKeyword": "starship flight",
-      "pubDate": "Mon, 26 Oct 2026 15:35:00 GMT"
+      "pubDate": "Wed, 21 Oct 2026 21:38:16 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Morgan Stanley, TD Cowen Back SpaceX as Starlink Passes 12 Million Subscribers - Benzinga",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDA4dDlEdnY3cDVzRFZNWkZGOUR2aGtkeFZOaF80UmRpQi1qLVRrMVg5QXR0MVVRcFF0aGVBYkVJbUdSTVBYMXliRGNjLVZEQ0pDYmJ6SjYxZDZCTGtxT21RbEpVaEZwRlVQR0s4cXExS3pRZG5nZ05kM2ZQSFkzWm9CczhoaHZzRkI2MW9RWlYtS0NzMG1wWlRDcUNGVHRmLS1GTmQ1Qmo3d0o4WU9EMnpIMTgtYVpHSmNQTjg2ZFVlcDVTa1NadGJlSlJMWk9ka04ySg?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.255Z",
+      "detectedAt": "2026-10-27T03:53:22.583Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.257Z",
+      "detectedAt": "2026-10-27T03:53:22.584Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.260Z",
+      "detectedAt": "2026-10-27T03:53:22.587Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +79,7 @@
       "confidence": "medium",
       "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.261Z",
+      "detectedAt": "2026-10-27T03:53:22.588Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
@@ -88,7 +88,7 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.262Z",
+      "detectedAt": "2026-10-27T03:53:22.589Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-26T22:20:16.263Z",
+      "detectedAt": "2026-10-27T03:53:22.590Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -120,10 +120,10 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX fires all 33 engines on super heavy booster 22 in Starship flight 15 test - The News International",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnlacWowelJ6Wlp0eExnd1RpUTJ0c1F6anQwTHJDLUNzSUF6aG9tOTh2VktYRmtEM0dJa0s2ZjFZYUY3SlRaV0k3Znk1R1NkY2VFTWJSREI4RzlHckhFWW5JR3U5YUMxdDNlVldyeDlsaXhPWVAzU3JIVVhCQUk3MEp2bm16d2NFRHpLRUQ2S2RPVnJDa3RYcnpnV21tWHkxdWk3eFNDQVVJdXcwZ3hIejlkQ1F0eVNpV0pQOHQ0WQ?oc=5",
+      "title": "SpaceX Starship Flight 15: November Dual Catch Plan - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlg5NHI4SXlvSFo5X19MRzROTWtvcXhZYk5LU0RtOHotZkVyY25hQnMzWjJWejhRT09rS2FKcERNdEtNcmd4T2ZPN0VucDNwLW5abFk1UjB1Mzk3T3JETlJzVTQzTWhqcG41Q2UyWDMtMllQNkp5LXBxUlhBWVJHQzV3?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Mon, 26 Oct 2026 15:35:00 GMT",
+      "date": "Wed, 21 Oct 2026 21:38:16 GMT",
       "source": "Auto-monitor RSS"
     },
     {
