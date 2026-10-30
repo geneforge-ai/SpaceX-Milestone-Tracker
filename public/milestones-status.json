@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-29T22:28:17.176Z",
-  "feedCount": 428,
+  "lastChecked": "2026-10-30T04:35:36.092Z",
+  "feedCount": 424,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX to attempt historic double rocket catch on Starship Flight 15: ‘Prophecy foretold’ - The News International",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamp5LVBJSnhuZHFuMTduV0JZd21vUVg3cXNpaVpSNV9IVW5LNUtJUllPQ1h2cWcxUzhERjVVT2RrLUlNQS1ER0diNlgyQVVmTmRXN0hGMmJ5cHY3RkRRQjlEaUY2eE1FaXFDRFh3cHMzbUZoUWNHTDk1cWtnQnFCZWs3ZmFhSXdFNHBZY3BWT3htUHV2VXRUdmxKZ2RCbUxrMG5Zb2FnWUJaMTJGZWg5Q2xLWGJxMWtobXpqV3lKTjNtd0pHbm9n0gHDAUFVX3lxTE1QUUdJaldWRVVHTWVxd0tDTXhNLVpjS2ZXdTk5OHo1TUVxZFk5QTcxbmJ0NEJ6MDhUbTl3eWtQT2NsMEQ3NHVQR3pFbWVqRXhRVTBjdmVoemxlM0llTHVCRWRWc2dfYy1JMzFmOUJUZGRNVktpZTl2NElJc0tmWUFmUnh5cGNJaFYtV3lGd1YybjVpd242UWFIWjlQMDhBdFpqbnh1RGxnaEFJOHd5dG9ETVpXeWUtdWZwYUsxdnN1TTB0RQ?oc=5",
-      "detectedAt": "2026-10-29T22:28:17.162Z",
+      "detectedAt": "2026-10-30T04:35:36.078Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Thu, 29 Oct 2026 10:19:00 GMT"
     },
@@ -27,7 +27,7 @@
       "confidence": "medium",
       "evidence": "Blue Origin's amazing preparation for Artemis III and IV - Starlust.org",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZsVHRwck9XZVJ6Mmxsd0Q1cWZvdWkxUENLMjh1QlAwZlFYTWJ3Q3lsMkpmT2N3aHoxRWM1RnN1RDZ2SUYtNXBaZENMT0Zpek43M2xsZzVNUFRFMGFPTHd1MTdDYllIQi1MV3JFcGdUdlZnNVhzcTF3dW5JNzNCb3pn?oc=5",
-      "detectedAt": "2026-10-28T04:14:10.038Z",
+      "detectedAt": "2026-10-30T04:35:36.082Z",
       "matchedKeyword": "artemis iii",
       "pubDate": "Fri, 23 Oct 2026 21:16:46 GMT"
     },
@@ -44,18 +44,18 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-10-29T22:28:17.167Z",
+      "detectedAt": "2026-10-30T04:35:36.083Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
-      "detectedAt": "2026-10-29T22:28:17.168Z",
+      "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
+      "detectedAt": "2026-10-30T04:35:36.084Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-29T22:28:17.171Z",
+      "detectedAt": "2026-10-30T04:35:36.086Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -95,11 +95,11 @@
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
-      "detectedAt": "2026-10-29T22:28:17.173Z",
+      "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
+      "detectedAt": "2026-10-30T04:35:36.089Z",
       "matchedKeyword": "first earnings report",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     "fin-margins": {
       "status": "non-iniziato",
@@ -127,6 +127,13 @@
       "source": "Auto-monitor RSS"
     },
     {
+      "title": "Blue Origin's amazing preparation for Artemis III and IV - Starlust.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZsVHRwck9XZVJ6Mmxsd0Q1cWZvdWkxUENLMjh1QlAwZlFYTWJ3Q3lsMkpmT2N3aHoxRWM1RnN1RDZ2SUYtNXBaZENMT0Zpek43M2xsZzVNUFRFMGFPTHd1MTdDYllIQi1MV3JFcGdUdlZnNVhzcTF3dW5JNzNCb3pn?oc=5",
+      "milestoneId": "starship-crew",
+      "date": "Fri, 23 Oct 2026 21:16:46 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
       "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
       "milestoneId": "starlink-subscribers",
@@ -134,10 +141,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
+      "title": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -148,10 +155,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
+      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
       "milestoneId": "fin-earnings",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     }
   ]
