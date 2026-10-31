@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-10-31T04:17:58.396Z",
-  "feedCount": 375,
+  "lastChecked": "2026-10-31T11:44:57.608Z",
+  "feedCount": 445,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Starship Flight 15: November Dual Catch Plan - https://tech-insider.org/",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlg5NHI4SXlvSFo5X19MRzROTWtvcXhZYk5LU0RtOHotZkVyY25hQnMzWjJWejhRT09rS2FKcERNdEtNcmd4T2ZPN0VucDNwLW5abFk1UjB1Mzk3T3JETlJzVTQzTWhqcG41Q2UyWDMtMllQNkp5LXBxUlhBWVJHQzV3?oc=5",
-      "detectedAt": "2026-10-31T04:17:58.384Z",
+      "detectedAt": "2026-10-31T11:44:57.596Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
@@ -44,7 +44,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-10-31T04:17:58.388Z",
+      "detectedAt": "2026-10-31T11:44:57.600Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -53,7 +53,7 @@
       "confidence": "medium",
       "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
-      "detectedAt": "2026-10-31T04:17:58.389Z",
+      "detectedAt": "2026-10-31T11:44:57.601Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
@@ -70,7 +70,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-10-31T04:17:58.391Z",
+      "detectedAt": "2026-10-31T11:44:57.603Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -97,7 +97,7 @@
       "confidence": "high",
       "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
-      "detectedAt": "2026-10-31T04:17:58.393Z",
+      "detectedAt": "2026-10-31T11:44:57.605Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
