@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-02T04:40:17.823Z",
-  "feedCount": 422,
+  "lastChecked": "2026-11-02T14:52:18.972Z",
+  "feedCount": 435,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect - Interesting Engineering",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXZQRmMyVncxZWVzTGVONDJqZlRtNTJOZGVxZFdyRTU5WVRXLW9DbTJ1ckxBQW92aks4OXpmeldiNzhFbzhBTkVlQ2tOSHB1Y2Vrck9hQjl0b093b0dZS2Zyd2REVTFKQTBLZF9aeEF0N0RkTWFfX2VBVjludWVBRHBxWS1aSjBsTXRhclM1bDNfUlE?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.814Z",
+      "detectedAt": "2026-11-02T14:52:18.961Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Sat, 31 Oct 2026 16:20:00 GMT"
     },
@@ -32,30 +32,31 @@
       "pubDate": "Fri, 23 Oct 2026 21:16:46 GMT"
     },
     "starship-cadence": {
-      "status": "non-iniziato",
-      "confidence": "low",
-      "evidence": null,
-      "evidenceUrl": null,
-      "detectedAt": "2026-06-24T11:03:34.397Z",
-      "matchedKeyword": null
+      "status": "raggiunto",
+      "confidence": "high",
+      "evidence": "SpaceX (NASDAQ:SPCX) Reaches 13 Million Starlink Subscribers and Posts 92% Revenue Growth as Launch Cadence Breaks Annual Records - Kalkine",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZmx3Nk9PaXhHLXhwT2o0VGltN1Q4QUkxYVR2TmRkTncwR2JJby11MUY5UDFuWjlzWEtVb3NEWmVIdUMwdWVxZUtTa1JzOFlOOEd3TFdBYWViS2ZMY1VhbEhWQXVoUno0WnRSUF9PTjBtVGVKN0hVYXVTNXdNS2ZQZHRhc0hwZk10TVNzMkd6UzZHRDI0cV9wdXEwVUtwUnI5ZU5ad2lSaFloRjVPWXcyN09PdlJMREQ1TmlaYkd0aVltOW82YnNWSXl3VnRMZmtfN3lKaDlQNzZMYkpiUEI4anJYdS1maV9sQXZVdURTdHhMOEh5MWk4?oc=5",
+      "detectedAt": "2026-11-02T14:52:18.965Z",
+      "matchedKeyword": "launch cadence",
+      "pubDate": "Thu, 29 Oct 2026 04:05:00 GMT"
     },
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.817Z",
+      "detectedAt": "2026-11-02T14:52:18.965Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.818Z",
+      "evidence": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
+      "detectedAt": "2026-11-02T14:52:18.966Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -70,7 +71,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.819Z",
+      "detectedAt": "2026-11-02T14:52:18.968Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -79,7 +80,7 @@
       "confidence": "medium",
       "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.820Z",
+      "detectedAt": "2026-11-02T14:52:18.968Z",
       "matchedKeyword": "orbital data center",
       "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
@@ -88,16 +89,16 @@
       "confidence": "medium",
       "evidence": "Musk’s ‘integration puzzle’ adds another piece: SpaceXAI launches alongside a new LOGO! - Binance",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWlNLcHNnQVlBODBxYnVkUHhBVURvU0Y0enFjMnJHWVpjeHJLUWNoeVhDeTZzU3lFdlcyWjFKYl8xNGVGbjJVTnp0ck5USnVIX0dfRVFwcnZlNi1ZMWJNR09wdF8?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.821Z",
+      "detectedAt": "2026-11-02T14:52:18.969Z",
       "matchedKeyword": "xai launch",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     "fin-earnings": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
-      "detectedAt": "2026-11-02T04:40:17.821Z",
+      "evidence": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
+      "detectedAt": "2026-11-02T14:52:18.970Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
@@ -127,6 +128,13 @@
       "source": "Auto-monitor RSS"
     },
     {
+      "title": "SpaceX (NASDAQ:SPCX) Reaches 13 Million Starlink Subscribers and Posts 92% Revenue Growth as Launch Cadence Breaks Annual Records - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZmx3Nk9PaXhHLXhwT2o0VGltN1Q4QUkxYVR2TmRkTncwR2JJby11MUY5UDFuWjlzWEtVb3NEWmVIdUMwdWVxZUtTa1JzOFlOOEd3TFdBYWViS2ZMY1VhbEhWQXVoUno0WnRSUF9PTjBtVGVKN0hVYXVTNXdNS2ZQZHRhc0hwZk10TVNzMkd6UzZHRDI0cV9wdXEwVUtwUnI5ZU5ad2lSaFloRjVPWXcyN09PdlJMREQ1TmlaYkd0aVltOW82YnNWSXl3VnRMZmtfN3lKaDlQNzZMYkpiUEI4anJYdS1maV9sQXZVdURTdHhMOEh5MWk4?oc=5",
+      "milestoneId": "starship-cadence",
+      "date": "Thu, 29 Oct 2026 04:05:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
       "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
       "milestoneId": "starlink-subscribers",
@@ -134,10 +142,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
+      "title": "Beeline Kazakhstan Launches Starlink Direct-to-Cell Service for 11.8 Million Users - Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNzazJLQUUxQU9vSWZ5Z2hGU0p2Yktxcm1xUmRwMzRSYTgtXzJRRktwNUFkaVV0SDBtQUs4aThBWGpIUTk1SGhOVzBPY2hpTnFwcjd2TDRJR2lXcFBZMWNxLWtfbG1HV1FZbFVsVnpTZ3ZHTFlzdHlRRG9BTDZ2Rkxhb1NfSDljZ3BhQWZWUURIelQtLUlkempqLUxqcGJwVFh6Vzh3OWRqZw?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -162,8 +170,8 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "SpaceX shows strong growth in its first earnings report since going public - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQnA2Y3pMWERBQ0hOUHZmM1ZrUWFBRHFKRl83ZFF3NjF0LXpzRlFJa2pmLTRrS042dG5QT1VQOEpBRWxFUjVwSk1yQkFVZHFSZDlnZ0tibzRBSWotdjF1TURCZXYxenRFUXFR?oc=5",
+      "title": "SpaceX Outlines Starlink Mobile Plans in First Earnings Report - Via Satellite",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnBsVHZDVUpybGppSGktc3F2Qk5aLU8ybFcyUE5NNC1LcWN4WW4wNE0wbUtvYzdmcW1Ua2ZGc3dDb0dFX28tbFNFT08zeGxoS09Gbmo5QzUzYnRNM2pwT3F6aGs0R0ZKazRxYkNTRlZuZWpleGFtUnE3R0RfeTZiUDZfdzN3S01PZFJyYWVFSGcxVjhnT2JYTDkxenNwN3BOOUJ5ODBad0g1XzZaYTRuYXRTZw?oc=5",
       "milestoneId": "fin-earnings",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
