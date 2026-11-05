@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-04T23:15:19.979Z",
-  "feedCount": 276,
+  "lastChecked": "2026-11-05T05:21:50.384Z",
+  "feedCount": 272,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "medium",
       "evidence": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect - Interesting Engineering",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXZQRmMyVncxZWVzTGVONDJqZlRtNTJOZGVxZFdyRTU5WVRXLW9DbTJ1ckxBQW92aks4OXpmeldiNzhFbzhBTkVlQ2tOSHB1Y2Vrck9hQjl0b093b0dZS2Zyd2REVTFKQTBLZF9aeEF0N0RkTWFfX2VBVjludWVBRHBxWS1aSjBsTXRhclM1bDNfUlE?oc=5",
-      "detectedAt": "2026-11-04T23:15:19.970Z",
+      "detectedAt": "2026-11-05T05:21:50.375Z",
       "matchedKeyword": "starship flight",
       "pubDate": "Sat, 31 Oct 2026 16:20:00 GMT"
     },
@@ -43,18 +43,18 @@
     "starlink-subscribers": {
       "status": "raggiunto",
       "confidence": "high",
-      "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-04T23:15:19.974Z",
+      "evidence": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - Drive Tesla Canada",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
+      "detectedAt": "2026-11-05T05:21:50.378Z",
       "matchedKeyword": "12 million subscribers",
-      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
       "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
-      "detectedAt": "2026-11-04T23:15:19.974Z",
+      "detectedAt": "2026-11-05T05:21:50.379Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
@@ -71,7 +71,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-04T23:15:19.976Z",
+      "detectedAt": "2026-11-05T05:21:50.381Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -98,7 +98,7 @@
       "confidence": "high",
       "evidence": "SpaceX beats revenue expectations in first earnings report after IPO crash - The Guardian",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlMai01RVBkRWk0alR2bUl1a3p4a2pEX0d3WGNiWGFpMkQtd0FiS1F3Mmx3QXptM1JLWG9EZjRpSm5SOHJYbU5VYkcxMXhBMXpmRG8yQWg0ZUFxUlFrajZsVkdIQXh1cURtX21RZWpEX1duZ0ZKUk9SbDZKZ0lJc093?oc=5",
-      "detectedAt": "2026-11-04T23:15:19.977Z",
+      "detectedAt": "2026-11-05T05:21:50.382Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -128,10 +128,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
+      "title": "Starlink Surges to 12 Million Subscribers Despite Price Hikes - Drive Tesla Canada",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjN6c21vM1FHTHJoUzVoVDVCc3JpNlgwNVo0Z2tTT1U0bTJiMFhSZnlfX1FrZ2VPSlcyRmJpYzBFcjMyd21GR2tZMjMzYzh0LVFTZE93S1RHYy1JQzI2Qlo4STltUkVlcktjWjkzay1jOHFBSXBBMkJ6dnhlWnZMQUNnOA?oc=5",
       "milestoneId": "starlink-subscribers",
-      "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
