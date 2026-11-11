@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-11T04:53:56.574Z",
+  "lastChecked": "2026-11-11T13:38:32.950Z",
   "feedCount": 315,
   "feedErrors": [],
   "updates": {
@@ -9,7 +9,7 @@
       "confidence": "high",
       "evidence": "SpaceX Chopsticks Catch Starship Upper Stage [2026] - shattered.io",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2JjUjdHVnY2WXFtaW5OVl96VkZjNE1LLTkwTzhZRWNzNVdVMmxmWVBobWI0aGRNZlB4QlJmVkNzWFBWUlZhWGh5bzA2dTA1bU4xRko1ZjBYUkFucjlBN205TDRaYVpPZlhIeS1wQnpsb3RUcnkwQzdhZW52U2JZdnZiZkl6QjdLb05B?oc=5",
-      "detectedAt": "2026-11-11T04:53:56.565Z",
+      "detectedAt": "2026-11-11T13:38:32.941Z",
       "matchedKeyword": "chopsticks catch",
       "pubDate": "Tue, 10 Nov 2026 08:41:19 GMT"
     },
@@ -45,7 +45,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-11T04:53:56.569Z",
+      "detectedAt": "2026-11-11T13:38:32.944Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -54,7 +54,7 @@
       "confidence": "medium",
       "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
-      "detectedAt": "2026-11-11T04:53:56.570Z",
+      "detectedAt": "2026-11-11T13:38:32.945Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
@@ -71,7 +71,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-11T04:53:56.571Z",
+      "detectedAt": "2026-11-11T13:38:32.946Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -98,7 +98,7 @@
       "confidence": "high",
       "evidence": "SpaceX beats revenue expectations in first earnings report after IPO crash - The Guardian",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlMai01RVBkRWk0alR2bUl1a3p4a2pEX0d3WGNiWGFpMkQtd0FiS1F3Mmx3QXptM1JLWG9EZjRpSm5SOHJYbU5VYkcxMXhBMXpmRG8yQWg0ZUFxUlFrajZsVkdIQXh1cURtX21RZWpEX1duZ0ZKUk9SbDZKZ0lJc093?oc=5",
-      "detectedAt": "2026-11-11T04:53:56.572Z",
+      "detectedAt": "2026-11-11T13:38:32.948Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
