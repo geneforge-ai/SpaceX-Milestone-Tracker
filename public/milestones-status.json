@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-13T05:18:21.306Z",
+  "lastChecked": "2026-11-13T13:59:00.133Z",
   "feedCount": 317,
   "feedErrors": [],
   "updates": {
@@ -9,7 +9,7 @@
       "confidence": "high",
       "evidence": "SpaceX Chopsticks Catch Starship Upper Stage [2026] - shattered.io",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2JjUjdHVnY2WXFtaW5OVl96VkZjNE1LLTkwTzhZRWNzNVdVMmxmWVBobWI0aGRNZlB4QlJmVkNzWFBWUlZhWGh5bzA2dTA1bU4xRko1ZjBYUkFucjlBN205TDRaYVpPZlhIeS1wQnpsb3RUcnkwQzdhZW52U2JZdnZiZkl6QjdLb05B?oc=5",
-      "detectedAt": "2026-11-13T05:18:21.297Z",
+      "detectedAt": "2026-11-13T13:59:00.124Z",
       "matchedKeyword": "chopsticks catch",
       "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT"
     },
@@ -45,7 +45,7 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-13T05:18:21.301Z",
+      "detectedAt": "2026-11-13T13:59:00.128Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
@@ -54,7 +54,7 @@
       "confidence": "medium",
       "evidence": "Fibocom Demonstrates Starlink Direct-to-Cell Connectivity with Standard LTE Cat.1 bis Modules - IoT Business News",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXRmMEZETWVWNU5RWldDZWtPRnpDaDNGOTUxSWVjbGcyaVd2QWNlRDJfNmxQRmxRSFhPb3E0b2dNU1RLaUpMZlNDd3NvZXRHd0NOczVqUmhqb1VYVWo4REwyeTdrMmxBOGs4YVNCUmMzOXNBSjFPdHFhZ1l0d21GZmpMck5telQtTmlQQVhZNzdLb1RYdl91YzluR2dnTnRXUk04QlVsWTFMVTBvTUQ4TTVTNXdiU1A4Uk5SbmdLTlpMbFNETkJ1NHg3YUZmUQ?oc=5",
-      "detectedAt": "2026-11-13T05:18:21.302Z",
+      "detectedAt": "2026-11-13T13:59:00.128Z",
       "matchedKeyword": "direct-to-cell",
       "pubDate": "Thu, 12 Nov 2026 14:41:12 GMT"
     },
@@ -71,7 +71,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-13T05:18:21.303Z",
+      "detectedAt": "2026-11-13T13:59:00.130Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -97,8 +97,8 @@
       "status": "raggiunto",
       "confidence": "high",
       "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUQ?oc=5",
-      "detectedAt": "2026-11-13T05:18:21.304Z",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
+      "detectedAt": "2026-11-13T13:59:00.131Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
@@ -150,7 +150,7 @@
     },
     {
       "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
       "milestoneId": "fin-earnings",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
