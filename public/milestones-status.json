@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-13T13:59:00.133Z",
-  "feedCount": 317,
+  "lastChecked": "2026-11-13T23:17:04.707Z",
+  "feedCount": 310,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
-      "status": "raggiunto",
-      "confidence": "high",
-      "evidence": "SpaceX Chopsticks Catch Starship Upper Stage [2026] - shattered.io",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2JjUjdHVnY2WXFtaW5OVl96VkZjNE1LLTkwTzhZRWNzNVdVMmxmWVBobWI0aGRNZlB4QlJmVkNzWFBWUlZhWGh5bzA2dTA1bU4xRko1ZjBYUkFucjlBN205TDRaYVpPZlhIeS1wQnpsb3RUcnkwQzdhZW52U2JZdnZiZkl6QjdLb05B?oc=5",
-      "detectedAt": "2026-11-13T13:59:00.124Z",
-      "matchedKeyword": "chopsticks catch",
-      "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT"
+      "status": "in-corso",
+      "confidence": "medium",
+      "evidence": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline) - Space",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzVsamhRZ2ItbHg4cE1oOC1ORFR1MlBXRU96aHdIbzgtcXUzOXpRcGFxMGdzdDh6SkJZaXFZc3RUUVlLYkxrQ1J5T1BtQzNyVENockM4MHViT2RKWExucTAtMC1iTjUtV3plektOSnFWWXphN3c0ZHgyTzlHWEdfVXZPaG1kb25RLUhLdTlwUGRPMmdaQjhNYW5ZWnB3M21zTmdqSkY5XzlxTjF4S05hOWRuRzJhdUhvZkFkNGRJSGF5ZTdmR01NWTM5SzgxMU96UGRwT3Fn?oc=5",
+      "detectedAt": "2026-11-13T23:17:04.699Z",
+      "matchedKeyword": "starship flight",
+      "pubDate": "Wed, 11 Nov 2026 11:00:00 GMT"
     },
     "starship-refueling": {
       "status": "raggiunto",
@@ -45,18 +45,18 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-13T13:59:00.128Z",
+      "detectedAt": "2026-11-13T23:17:04.702Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "Fibocom Demonstrates Starlink Direct-to-Cell Connectivity with Standard LTE Cat.1 bis Modules - IoT Business News",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXRmMEZETWVWNU5RWldDZWtPRnpDaDNGOTUxSWVjbGcyaVd2QWNlRDJfNmxQRmxRSFhPb3E0b2dNU1RLaUpMZlNDd3NvZXRHd0NOczVqUmhqb1VYVWo4REwyeTdrMmxBOGs4YVNCUmMzOXNBSjFPdHFhZ1l0d21GZmpMck5telQtTmlQQVhZNzdLb1RYdl91YzluR2dnTnRXUk04QlVsWTFMVTBvTUQ4TTVTNXdiU1A4Uk5SbmdLTlpMbFNETkJ1NHg3YUZmUQ?oc=5",
-      "detectedAt": "2026-11-13T13:59:00.128Z",
+      "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
+      "detectedAt": "2026-11-13T23:17:04.702Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Thu, 12 Nov 2026 14:41:12 GMT"
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -71,18 +71,18 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-13T13:59:00.130Z",
+      "detectedAt": "2026-11-13T23:17:04.704Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     "xai-orbital-compute": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "SpaceX merges with xAI as FCC reviews “Orbital Data Center” satellite filing - TechInformed",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlEcl96YkxGQVpSR0s4UElJYUs0TG1GLTZKU0JiREI5bWJSRzJjOGpWdGN5cTdOTFc4NkxVeEpYdGp4MjE2eE9kUXF3bU5TdlNDVEllZ0JNVnRQa21fb3oyTVJTcmlJLUJ2Wmh6OUNVU3RNa2NLelUzSzVpX2VPei1zR3dPQzU0d3Z0eDlyMVUwR3FDcjJyNVlNZEYtanFxQ2c?oc=5",
-      "detectedAt": "2026-11-04T13:50:37.398Z",
-      "matchedKeyword": "orbital data center",
-      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
+      "evidence": "SpaceX Starship’s First Double Catch Is ‘Massive’ For Orbital AI Data Centers, Says Market Strategist - Yahoo Finance",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmtWY2JpYmRuY1ZrazBPYU5DMEM3SFJabDFmRnk4ajBfcWFxdklBVnRmQzFOMC0wQWF1STg3b2R1Ym9UVE8zeGVaV3pjSF9QbkZiTllJTWF2UmhkNXdzNEdpbjJDcGtZUXE5V1JkUDNvS3FIcTBZWUFIVW8ydzRGZ2ZhbDZ4UkxOWXNmWWZRY1FscXVXNTJoeE4wMmNUSnM?oc=5",
+      "detectedAt": "2026-11-13T23:17:04.705Z",
+      "matchedKeyword": "orbital ai",
+      "pubDate": "Fri, 13 Nov 2026 19:30:40 GMT"
     },
     "xai-starship-launch": {
       "status": "in-corso",
@@ -98,7 +98,7 @@
       "confidence": "high",
       "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
-      "detectedAt": "2026-11-13T13:59:00.131Z",
+      "detectedAt": "2026-11-13T23:17:04.705Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
@@ -121,10 +121,10 @@
   },
   "recentNews": [
     {
-      "title": "SpaceX Chopsticks Catch Starship Upper Stage [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2JjUjdHVnY2WXFtaW5OVl96VkZjNE1LLTkwTzhZRWNzNVdVMmxmWVBobWI0aGRNZlB4QlJmVkNzWFBWUlZhWGh5bzA2dTA1bU4xRko1ZjBYUkFucjlBN205TDRaYVpPZlhIeS1wQnpsb3RUcnkwQzdhZW52U2JZdnZiZkl6QjdLb05B?oc=5",
+      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline) - Space",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzVsamhRZ2ItbHg4cE1oOC1ORFR1MlBXRU96aHdIbzgtcXUzOXpRcGFxMGdzdDh6SkJZaXFZc3RUUVlLYkxrQ1J5T1BtQzNyVENockM4MHViT2RKWExucTAtMC1iTjUtV3plektOSnFWWXphN3c0ZHgyTzlHWEdfVXZPaG1kb25RLUhLdTlwUGRPMmdaQjhNYW5ZWnB3M21zTmdqSkY5XzlxTjF4S05hOWRuRzJhdUhvZkFkNGRJSGF5ZTdmR01NWTM5SzgxMU96UGRwT3Fn?oc=5",
       "milestoneId": "starship-orbital-catch",
-      "date": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "date": "Wed, 11 Nov 2026 11:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -135,10 +135,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "Fibocom Demonstrates Starlink Direct-to-Cell Connectivity with Standard LTE Cat.1 bis Modules - IoT Business News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXRmMEZETWVWNU5RWldDZWtPRnpDaDNGOTUxSWVjbGcyaVd2QWNlRDJfNmxQRmxRSFhPb3E0b2dNU1RLaUpMZlNDd3NvZXRHd0NOczVqUmhqb1VYVWo4REwyeTdrMmxBOGs4YVNCUmMzOXNBSjFPdHFhZ1l0d21GZmpMck5telQtTmlQQVhZNzdLb1RYdl91YzluR2dnTnRXUk04QlVsWTFMVTBvTUQ4TTVTNXdiU1A4Uk5SbmdLTlpMbFNETkJ1NHg3YUZmUQ?oc=5",
+      "title": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Thu, 12 Nov 2026 14:41:12 GMT",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "Auto-monitor RSS"
     },
     {
@@ -146,6 +146,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
       "milestoneId": "xai-official",
       "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "source": "Auto-monitor RSS"
+    },
+    {
+      "title": "SpaceX Starship’s First Double Catch Is ‘Massive’ For Orbital AI Data Centers, Says Market Strategist - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmtWY2JpYmRuY1ZrazBPYU5DMEM3SFJabDFmRnk4ajBfcWFxdklBVnRmQzFOMC0wQWF1STg3b2R1Ym9UVE8zeGVaV3pjSF9QbkZiTllJTWF2UmhkNXdzNEdpbjJDcGtZUXE5V1JkUDNvS3FIcTBZWUFIVW8ydzRGZ2ZhbDZ4UkxOWXNmWWZRY1FscXVXNTJoeE4wMmNUSnM?oc=5",
+      "milestoneId": "xai-orbital-compute",
+      "date": "Fri, 13 Nov 2026 19:30:40 GMT",
       "source": "Auto-monitor RSS"
     },
     {
