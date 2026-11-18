@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastChecked": "2026-11-18T15:10:16.063Z",
-  "feedCount": 306,
+  "lastChecked": "2026-11-18T23:55:18.608Z",
+  "feedCount": 309,
   "feedErrors": [],
   "updates": {
     "starship-orbital-catch": {
@@ -9,7 +9,7 @@
       "confidence": "high",
       "evidence": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch? - Space",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeG54TUh4Wm5aVHNOSXVQYV85YUJuaHZ0V29nbWVDZ2JhVUs1a2R4aGhOZjZjS1hGX1JfSGtVcGtYczZDVTFhNEFIY2RRUHpsRWYxT3p6YmdGWlB4S0xIUGxGekdVaEZUd0NCZlFST0lwei1zbUNZa1VDSmZQOTZUQVhteFI0ODdoWXYxTWliNGYxRUZYamQwSkpEQzlta1F5eFVQZ2hVaUl1b0o0Y0NiVWFjcmpRUllQa0dqZmdjS2ltZ3NlM2dtSg?oc=5",
-      "detectedAt": "2026-11-18T15:10:16.052Z",
+      "detectedAt": "2026-11-18T23:55:18.596Z",
       "matchedKeyword": "chopsticks catch",
       "pubDate": "Sun, 15 Nov 2026 11:00:00 GMT"
     },
@@ -45,18 +45,18 @@
       "confidence": "high",
       "evidence": "Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit - PCMag",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdQTnl3eVBNX05OZkxGcTlfYUpSMF9mZU9YM0gtQWc5amtwMkozdVlCanNBOVRoYWRHV0FTZ0k2RXRsWXpwWkY1aTJZazlJY3o1MkpzVENEUmRlc0VnTVYtSEcwMVpxTXphSldDN1YzOUYxOHp6aThFc091ek44SUlxVE5sRHd4SGt1SEMxU3ZxZXpmV1BXU0gyM0gxeWNO?oc=5",
-      "detectedAt": "2026-11-18T15:10:16.057Z",
+      "detectedAt": "2026-11-18T23:55:18.601Z",
       "matchedKeyword": "12 million subscribers",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     "starlink-d2c": {
       "status": "in-corso",
       "confidence": "medium",
-      "evidence": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
-      "evidenceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
-      "detectedAt": "2026-11-18T15:10:16.058Z",
+      "evidence": "Starlink Direct-to-Cell Goes Live in Mongolia via Mobicom - BASENOR - Tesla Accessories",
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjJiSWNwSDhEQl9qUU9kUTNuMHBRNzhJajB2bFE1UGdfQTRfMGZqUGpidFpQUkZsb2ROUVJrbFhQS1RXQnV0bGxoNDYxdGtIcUFnMlI2Qm9aSzNjSVpfaTN2NDh3cFlJcExFd3dIR1ZfMmVLdkN3UkJheFRoQ1lDaVpGbHpwa2xiT19qUk1RTEYtSHdpRGNv?oc=5",
+      "detectedAt": "2026-11-18T23:55:18.602Z",
       "matchedKeyword": "direct-to-cell",
-      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "pubDate": "Wed, 18 Nov 2026 20:04:27 GMT"
     },
     "starlink-profitable": {
       "status": "non-iniziato",
@@ -71,7 +71,7 @@
       "confidence": "medium",
       "evidence": "The SpaceX xAI Merger Is A Giant Red Flag - Medium",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJyWUdkYnFWZTNwcUZmenBONDhMZ1ZGZTkwMmZXcEJldkZmbE5uSkpHbjN6a0xkWGVpaU8xVGFrTG9tbHdrbUtLc2FNWFhLNDlMQUREcXlQNm5rODhWUFdCc0hLWUpEOHBUb05XREhsaE9BVXVmb0pGUG9wSzJ0VzlkYkRWaFQ2Qmc?oc=5",
-      "detectedAt": "2026-11-18T15:10:16.060Z",
+      "detectedAt": "2026-11-18T23:55:18.604Z",
       "matchedKeyword": "spacex xai",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
@@ -98,7 +98,7 @@
       "confidence": "high",
       "evidence": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
       "evidenceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
-      "detectedAt": "2026-11-18T15:10:16.061Z",
+      "detectedAt": "2026-11-18T23:55:18.606Z",
       "matchedKeyword": "first earnings report",
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
@@ -135,10 +135,10 @@
       "source": "Auto-monitor RSS"
     },
     {
-      "title": "What Starlink Direct-To-Cell Can (And Can't) Actually Do On Your Phone - BGR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk1aM1cxMVJvOUR5aVJNRmhxdEpIdmczTnlKc0xHY0E0NXZ4T2hscnYxbWhjcDQ3TzdKMzI4M0U4WDM2cjMyT0JrY2xzU1ZDOUw4Tmc4SUJva05NU1VDbGNlVmY3UklFWUdGX1lBSTlFd2xwVFRYX2JzLW5Hdk8zczBR?oc=5",
+      "title": "Starlink Direct-to-Cell Goes Live in Mongolia via Mobicom - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjJiSWNwSDhEQl9qUU9kUTNuMHBRNzhJajB2bFE1UGdfQTRfMGZqUGpidFpQUkZsb2ROUVJrbFhQS1RXQnV0bGxoNDYxdGtIcUFnMlI2Qm9aSzNjSVpfaTN2NDh3cFlJcExFd3dIR1ZfMmVLdkN3UkJheFRoQ1lDaVpGbHpwa2xiT19qUk1RTEYtSHdpRGNv?oc=5",
       "milestoneId": "starlink-d2c",
-      "date": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "date": "Wed, 18 Nov 2026 20:04:27 GMT",
       "source": "Auto-monitor RSS"
     },
     {
